@@ -1,0 +1,173 @@
+- unit: Transformations
+  topic: "Translations"
+  web:
+
+- unit: Transformations
+  topic: "Reflection and Stretches"
+  web:
+
+- unit: Transformations
+  topic: "Combining Transformations"
+  web:
+
+- unit: Transformations
+  topic: "Inverse of a Relation"
+  web:
+
+- unit: "Polynomial Functions"
+  topic: "Characteristics of a Polynomial Function"
+  web:
+  
+- unit: "Polynomial Functions"
+  topic: "Graphs of Polynomial Functions"
+  web:
+
+- unit: "Polynomial Functions"
+  topic: "Remainder and Factor Theorems"
+  web:
+
+- unit: "Polynomial Functions"
+  topic: "Dividing a Polynomial by a Binomial"
+  web:
+
+- unit: "Polynomial Functions"
+  topic: "Polynomial Equations"
+  web:
+
+- unit: "Radical and Rational Functions"
+  topic: "Square Root Functions and Transformations"
+  web:
+
+- unit: "Radical and Rational Functions"
+  topic: "Square Root of a Function"
+  web:
+
+- unit: "Radical and Rational Functions"
+  topic: "Rational Functions and Transformations"
+  web:
+
+- unit: "Radical and Rational Functions"
+  topic: "Graphs of Rational Functions"
+  web:
+
+- unit: "Radical and Rational Functions"
+  topic: "Solving Radical and Rational Equations Graphically"
+  web:
+
+- unit: "Exponential and Logarithmic Functions"
+  topic: "Exponential Functions and Transformations"
+  web:
+
+- unit: "Exponential and Logarithmic Functions"
+  topic: "Understanding Logarithms"
+  web:
+
+- unit: "Exponential and Logarithmic Functions"
+  topic: "Logarithmic Functions and Transformations"
+  web:
+
+- unit: "Exponential and Logarithmic Functions"
+  topic: "Laws of Logarithms"
+  web:
+
+- unit: "Exponential and Logarithmic Functions"
+  topic: "Solving Logarithmic Equations"
+  web:
+
+- unit: "Exponential and Logarithmic Functions"
+  topic: "Solving Exponential Equations"
+  web:
+
+- unit: "Trigonometric Functions"
+  topic: "Angles and Angle Measures"
+  web:
+    - url: /angles-and-angle-measures-10/
+
+# 2011-02-*
+- unit: "Trigonometric Functions"
+  topic: "Unit Circle and Trigonometric Ratios"
+  web:
+    - url: /unit-circle-and-trigonometric-ratios-1/
+    - url: /unit-circle-and-trigonometric-ratios-2/
+    - url: /unit-circle-and-trigonometric-ratios-3/
+    - url: /unit-circle-and-trigonometric-ratios-4/
+    - url: /unit-circle-and-trigonometric-ratios-5/
+    - url: /unit-circle-and-trigonometric-ratios-6/
+    - url: /unit-circle-and-trigonometric-ratios-7/
+    - url: /unit-circle-and-trigonometric-ratios-8/
+    - url: /unit-circle-and-trigonometric-ratios-9/
+    - url: /unit-circle-and-trigonometric-ratios-10/
+    - url: /unit-circle-and-trigonometric-ratios-11/
+    - url: /unit-circle-and-trigonometric-ratios-12/
+    - url: /unit-circle-and-trigonometric-ratios-13/
+
+# 2011-03-*
+- unit: "Trigonometric Functions"
+  topic: "Sine Function, Cosine Function and Transformations"
+  web:
+    - url: /sine-function-cosine-function-and-transformations-1/
+    - url: /sine-function-cosine-function-and-transformations-2/
+    - url: /sine-function-cosine-function-and-transformations-3/
+    - url: /sine-function-cosine-function-and-transformations-4/
+    - url: /sine-function-cosine-function-and-transformations-5/
+    - url: /sine-function-cosine-function-and-transformations-6/
+
+- unit: "Trigonometric Functions"
+  topic: "Tangent Function"
+  web: 
+
+- unit: "Trigonometric Equations and Identities"
+  topic: "Solving Trigonometric Equations Graphically"
+  web:
+
+- unit: "Trigonometric Equations and Identities"
+  topic: "Solving Trigonometric Equations Algebraically"
+  web:
+
+- unit: "Trigonometric Equations and Identities"
+  topic: "Reciprocal, Quotient and Pythagorean Identities"
+  web:
+
+- unit: "Trigonometric Equations and Identities"
+  topic: "Sum, Difference, and Double-Angle Identities"
+  web:
+
+- unit: "Trigonometric Equations and Identities"
+  topic: "Solving Trigonometric Equations Using Identities"
+  web:
+
+- unit: "Permutations, Combinations and the Binomial Theorem"
+  topic: "Fundamental Counting Principle"
+  web:
+
+- unit: "Permutations, Combinations and the Binomial Theorem"
+  topic: "Permutations with Constraints"
+  web:
+
+- unit: "Permutations, Combinations and the Binomial Theorem"
+  topic: "Permutations with Alike Objects"
+  web:
+
+- unit: "Permutations, Combinations and the Binomial Theorem"
+  topic: "Combinations"
+  web:
+
+- unit: "Permutations, Combinations and the Binomial Theorem"
+  topic: "The Binomial Theorem"
+  web:
+
+- unit: "Function Operations"
+  topic: "Domain of Combined Functions"
+  web:
+
+- unit: "Function Operations"
+  topic: "Polynomial Functions"
+  web:
+
+- unit: "Function Operations"
+  topic: "Radical and Rational Functions"
+  web:
+
+- unit: "Function Operations"
+  topic: "Exponent and Logarithmic Functions"
+  web:

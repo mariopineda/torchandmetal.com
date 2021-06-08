@@ -1,0 +1,191 @@
+- class: 20-2
+  date: Mon Feb 3
+  unit: Prereqs review
+  pages:
+  web:
+    - url: /integer-arithmetics-1/
+    - url: /fractions-1/
+    - url: /fractions-2/
+  note: <a href="https://docs.google.com/forms/d/e/1FAIpQLSej8fwdjKvntwaKRT0jmPazh7xhneTq4zp2m22vbCL-Fk6zaA/viewform">Student survey</a>
+  published: true
+
+- class: 20-2
+  date: Tue Feb 4
+  unit: "Prereqs review & Reasoning"
+  pages: "Topic 1 practice questions"
+  web:
+    - url: /fraction-arithmetics-1/
+    - url: /fraction-arithmetics-2/
+    - url: /fraction-arithmetics-3/
+    - url: /fraction-arithmetics-4/
+    - url: /evaluate-rationals-expressions/
+    - url: /fractions-3/
+    - url: /review-of-polynomials-1/
+    - url: /review-of-polynomials-2/
+    - url: /review-of-polynomials-3/
+    - url: /review-of-polynomials-4/
+  note:
+  published: true
+
+- class: 20-2
+  date: Wed Feb 5
+  unit: "Prereqs review & Reasoning"
+  pages: "Topic 2 practice questions"
+  web:
+    - url: /review-of-polynomials-5/
+    - url: /review-of-polynomials-6/
+    - url: /solving-equations-1/
+    - url: /solving-equations-2/
+    - url: /solving-equations-3/
+    - url: /solving-equations-4/
+    - url: /solving-equations-5/
+  note:
+  published: true
+
+- class: 20-2
+  date: Thu Feb 6
+  unit: "Prereqs review & Reasoning"
+  pages: "Topic 3 practice questions, Example 3 p29 & review"
+  web:
+    - url: /solving-equations-6/
+    - url: /solving-equations-7/
+    - url: /solving-equations-8/
+    - url: /inductive-reasoning-1/
+    - url: /deductive-reasoning-1/
+    - url: /deductive-reasoning-2/
+    - url: /number-expressions/
+  note: "Skill Assessment tomorrow and Reasoning Practice Test"
+  published: true
+
+- class: 20-2
+  date: Fri Feb 7
+  unit: "Reasoning"
+  pages: "Study for unit final. Finish all assignments + review for this unit. Assignment check on Monday!"
+  web:
+    - url:
+  note:
+  published: true
+
+- class: 20-2
+  date: Mon Feb 10
+  unit: "Reasoning"
+  pages: "Unit Final tomorrow!"
+  web:
+    - url:
+  note:
+  published: true
+
+- class: 20-2
+  date: Wed Feb 12
+  unit: "Properties of angles"
+  pages: "Topic 1 practice problems"
+  web:
+    - url:
+  note:
+  published: true
+
+- class: 20-2
+  date: Fri Feb 14
+  unit: "Properties of angles"
+  pages: "Topic 2 practice problems"
+  web:
+    - url: /angles-and-parallel-lines/
+  note:
+  published: true
+
+- class: 20-2
+  date: Wed Feb 19
+  unit: "Properties of angles"
+  pages: "Ex 3b, Ex 4, Ex 5, Topic 3 practice problems & review. PT, late writes and reassessments tomorrow. Unit final on Friday."
+  web:
+    - url: /angles-in-triangles/
+  note:
+  published: true
+
+- class: 20-2
+  date: Thu Feb 20
+  unit: "Properties of angles"
+  pages: "Finish assignments (assignment checks tomorrow). Unit final on Monday."
+  web:
+    - url:
+  note:
+  published: true
+
+- class: 20-2
+  date: Fri Feb 21
+  unit: "Properties of angles"
+  pages: "Finish worksheets (congruent triangles and angle measures)."
+  web:
+    - url:
+  note:
+  published: true
+
+- class: 20-2
+  date: Tue Feb 25
+  unit: "Trigonometry"
+  pages: "Before We Start practice problems"
+  web:
+    - url: /trigonometry-1/
+    - url: /trigonometry-8/
+    - url: /trigonometry-9/
+    - url: /trigonometry-10/
+    - url: /solving-triangles/
+    - url: /solving-oblique-triangles/
+  note:
+  published: true
+
+- class: 20-2
+  date: Mon Mar 2
+  unit: "Trigonometry"
+  pages: "Topic 1 Practice Problems"
+  web:
+    - url: /solving-oblique-triangles-using-the-sine-law/
+  note:
+  published: true
+
+- class: 20-2
+  date: Tue Mar 3
+  unit: "Trigonometry"
+  pages: "Example 2 (p28) & Topic 2 Practice Problems #1-3"
+  web:
+    - url: /solving-oblique-triangles-using-the-sine-law/
+  note:
+  published: true
+
+- class: 20-2
+  date: Wed Mar 4
+  unit: "Trigonometry"
+  pages: "Topic 2 Practice Problems #4-"
+  web:
+    - url: /solving-oblique-triangles-using-the-cosine-law/
+  note:
+  published: true
+
+- class: 20-2
+  date: Thu Mar 5
+  unit: "Trigonometry"
+  pages: "Ex 2 & p35, Topic 3 Practice Problems & Review"
+  web:
+    - url: /solving-pairs-of-triangles/
+  note: "Tomorrow: PT / Late writes / Reassessments"
+  published: true
+
+- class: 20-2
+  date: Fri Mar 6
+  unit: "Trigonometry"
+  pages: "Study for exam"
+  web:
+    - url:
+  note: "Unit final on Wed"
+  published: true
+
+- class: 20-2
+  date: Fri Mar 13
+  unit: "Proportional Reasoning"
+  pages: "Ex 1b, 1c, 2a (p7), Ex 5 & 6 (p11), Topic 1 Practice Problems"
+  web:
+    - url: /unit-rate/
+    - url: /rate-of-change/
+    - url: /rate-of-sea-level-rise/
+  note:
+  published: true

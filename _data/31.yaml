@@ -1,0 +1,406 @@
+- unit: Precalculus
+  topic: "Simplifying and Factoring Polynomials"
+  web:
+    - url: /multistep-factoring-1/
+
+- unit: Precalculus
+  topic: "Factoring with Powers"
+  web:
+
+- unit: Precalculus
+  topic: "Simplifying Rational and Radical Expressions"
+  web:
+
+- unit: Precalculus
+  topic: "Solving Equations"
+  web:
+    - url: /solving-mixed-equations-1/
+    - url: /solving-mixed-equations-2/
+    - url: /solving-mixed-equations-3/
+    - url: /solving-mixed-equations-4/
+    - url: /solving-mixed-equations-5/
+    - url: /solving-mixed-equations-6/
+
+- unit: Precalculus
+  topic: "Inequalities"
+  web:
+    - url: /inequalities-1/
+    - url: /inequalities-2/
+    - url: /inequalities-3/
+    - url: /inequalities-4/
+    - url: /inequalities-5/
+    - url: /inequalities-6/
+    - url: /inequalities-7/
+    - url: /inequalities-8/
+
+- unit: Precalculus
+  topic: "Coordinate Geometry"
+  web:
+    - url: /coordinate-geometry-1/
+    - url: /coordinate-geometry-2/
+    - url: /coordinate-geometry-3/
+    - url: /coordinate-geometry-4/
+    - url: /coordinate-geometry-5/
+    - url: /coordinate-geometry-6/
+    - url: /coordinate-geometry-7/
+
+- unit: Precalculus
+  topic: "Sketching Functions using Transformations"
+  web:
+    - url: /completing-the-square-1/
+    - url: /completing-the-square-2/
+    - url: /completing-the-square-3/
+    - url: /completing-the-square-4/
+    - url: /sketching-functions-using-transformations-1/
+    - url: /sketching-functions-using-transformations-2/
+    - url: /sketching-functions-using-transformations-3/
+    - url: /sketching-functions-using-transformations-4/
+    - url: /sketching-functions-using-transformations-5/
+    - url: /sketching-functions-using-transformations-6/
+
+- unit: Precalculus
+  topic: "Domain and Range"
+  web:
+    - url: /domain-and-range-1/
+    - url: /domain-and-range-2/
+    - url: /domain-and-range-3/
+    - url: /domain-and-range-4/
+    - url: /domain-and-range-5/
+    - url: /domain-and-range-6/
+    - url: /domain-and-range-7/
+    - url: /domain-and-range-8/
+    - url: /domain-and-range-9/
+    - url: /determine-domain-and-range-algebraically-1/
+    - url: /determine-domain-and-range-algebraically-2/
+    - url: /determine-domain-and-range-algebraically-3/
+
+- unit: Precalculus
+  topic: "Properties of Functions"
+  web:
+    - url: /properties-of-functions-1/
+    - url: /properties-of-functions-2/
+    - url: /properties-of-functions-3/
+    - url: /properties-of-functions-4/
+    - url: /properties-of-functions-5/
+    - url: /properties-of-functions-6/
+    - url: /properties-of-functions-7/
+    - url: /properties-of-functions-8/
+    - url: /properties-of-functions-9/
+    - url: /properties-of-functions-10/
+    - url: /properties-of-functions-11/
+    - url: /properties-of-functions-12/
+    - url: /properties-of-functions-13/
+
+- unit: Limits
+  topic: "Linear Functions and Tangents"
+  web:
+    - url: /linear-functions-and-tangents-1/
+    - url: /linear-functions-and-tangents-2/
+    - url: /linear-functions-and-tangents-3/
+    - url: /linear-functions-and-tangents-4/
+    - url: /linear-functions-and-tangents-5/
+    - url: /linear-functions-and-tangents-6/
+    - url: /linear-functions-and-tangents-7/
+    - url: /linear-functions-and-tangents-8/
+    - url: /linear-functions-and-tangents-9/
+
+- unit: Limits
+  topic: "Limits"
+  web:
+    - url: /limits-1/
+    - url: /limits-2/
+    - url: /limits-3/
+    - url: /limits-4/
+    - url: /limits-5/
+    - url: /limits-6/
+    - url: /limits-7/
+    - url: /limits-8/
+    - url: /limits-9/
+
+- unit: Limits
+  topic: "One-Sided Limits and Continuity"
+  web:
+    - url: /one-sided-limits-and-continuity-1/
+    - url: /one-sided-limits-and-continuity-2/
+    - url: /one-sided-limits-and-continuity-3/
+
+- unit: Limits
+  topic: "Using Limits to Find Tangents"
+  web:
+    - url: /using-limits-to-find-tangents-1/
+    - url: /using-limits-to-find-tangents-2/
+    - url: /using-limits-to-find-tangents-3/
+
+- unit: Limits
+  topic: "Infinite Sequences"
+  web:
+    - url: /infinite-sequences-1/
+    - url: /infinite-sequences-2/
+    - url: /infinite-sequences-3/
+    - url: /infinite-sequences-4/
+    - url: /infinite-sequences-5/
+
+- unit: Limits
+  topic: "Infinite Geometric Series"
+  web:
+    - url: /infinite-geometric-sequences-1/
+    - url: /infinite-geometric-sequences-2/
+    - url: /infinite-geometric-sequences-3/
+    - url: /infinite-geometric-sequences-4/
+
+- unit: Derivatives
+  topic: "Derivatives"
+  web:
+    - url: /derivatives-1/
+    - url: /derivatives-2/
+    - url: /derivatives-3/
+    - url: /derivatives-4/
+    - url: /derivatives-5/
+    - url: /derivatives-6/
+    - url: /derivatives-7/
+    - url: /derivatives-8/
+    - url: /derivatives-9/
+
+- unit: Derivatives
+  topic: "Basic Derivatives"
+  web:
+    - url: /basic-derivatives-1/
+    - url: /basic-derivatives-2/
+    - url: /basic-derivatives-3/
+    - url: /basic-derivatives-4/
+    - url: /basic-derivatives-5/
+    - url: /basic-derivatives-6/
+    - url: /basic-derivatives-7/
+    - url: /basic-derivatives-8/
+    - url: /basic-derivatives-9/
+    - url: /basic-derivatives-10/
+    - url: /basic-derivatives-11/
+    - url: /basic-derivatives-12/
+    - url: /basic-derivatives-13/
+    - url: /basic-derivatives-14/
+    - url: /basic-derivatives-15/
+    - url: /basic-derivatives-16/
+    - url: /basic-derivatives-17/
+    - url: /basic-derivatives-18/
+
+- unit: Derivatives
+  topic: "The Product and Quotient Rules"
+  web:
+    - url: /the-product-and-quotient-rules-1/
+    - url: /the-product-and-quotient-rules-2/
+    - url: /the-product-and-quotient-rules-3/
+    - url: /the-product-and-quotient-rules-4/
+    - url: /the-product-and-quotient-rules-5/
+
+- unit: Derivatives
+  topic: "The Chain Rule"
+  web:
+    - url: /the-chain-rule-1/
+    - url: /the-chain-rule-2/
+    - url: /the-chain-rule-3/
+    - url: /the-chain-rule-4/
+    - url: /the-chain-rule-5/
+    - url: /the-chain-rule-6/
+    - url: /the-chain-rule-7/
+    - url: /the-chain-rule-8/
+    - url: /the-chain-rule-9/
+    - url: /the-chain-rule-10/
+    - url: /the-chain-rule-11/
+    - url: /the-chain-rule-12/
+    - url: /the-chain-rule-13/
+    - url: /the-chain-rule-14/
+    - url: /the-chain-rule-15/
+    - url: /the-chain-rule-16/
+    - url: /the-chain-rule-17/
+    - url: /the-chain-rule-18/
+    - url: /the-chain-rule-19/
+    - url: /the-chain-rule-20/
+    - url: /the-chain-rule-21/
+
+
+- unit: Derivatives
+  topic: "Implicit Differentiation"
+  web:
+    - url: /implicit-differentiation-1/
+    - url: /implicit-differentiation-2/
+    - url: /implicit-differentiation-3/
+    - url: /implicit-differentiation-4/
+    - url: /implicit-differentiation-5/
+    - url: /implicit-differentiation-6/
+    - url: /implicit-differentiation-7/
+    - url: /implicit-differentiation-8/
+    - url: /implicit-differentiation-9/
+    - url: /implicit-differentiation-10/
+    - url: /implicit-differentiation-11/
+    - url: /implicit-differentiation-12/
+
+- unit: Derivatives
+  topic: "Higher Derivatives"
+  web:
+    - url: /higher-derivatives-1/
+    - url: /higher-derivatives-2/
+    - url: /higher-derivatives-3/
+    - url: /higher-derivatives-4/
+    - url: /higher-derivatives-5/
+    - url: /higher-derivatives-6/
+
+- unit: "Applications of Derivatives"
+  topic: "Rates of Change and Derivatives of Polynomials"
+  web:
+    - url: /rates-of-change-and-derivatives-of-polynomials-1/
+    - url: /rates-of-change-and-derivatives-of-polynomials-2/
+
+- unit: "Applications of Derivatives"
+  topic: "Position and Velocity"
+  web:
+    - url: /position-and-velocity-1/
+    - url: /position-and-velocity-2/
+    - url: /position-and-velocity-3/
+    - url: /position-and-velocity-4/
+    - url: /position-and-velocity-5/
+    - url: /position-and-velocity-6/
+    - url: /position-and-velocity-7/
+    - url: /position-and-velocity-8/
+    - url: /position-and-velocity-9/
+    - url: /position-and-velocity-10/
+    - url: /position-and-velocity-11/
+    - url: /position-and-velocity-12/
+    - url: /position-and-velocity-13/
+
+- unit: "Applications of Derivatives"
+  topic: "Acceleration"
+  web:
+    - url: /acceleration-1/
+    - url: /acceleration-2/
+    - url: /acceleration-3/
+    - url: /acceleration-4/
+
+- unit: "Applications of Derivatives"
+  topic: "Related Rates"
+  web:
+    - url: /related-rates-1/
+    - url: /related-rates-2/
+    - url: /related-rates-3/
+    - url: /related-rates-4/
+    - url: /related-rates-5/
+    - url: /related-rates-6/
+    - url: /related-rates-7/
+    - url: /related-rates-8/
+    - url: /related-rates-9/
+    - url: /related-rates-10/
+
+- unit: "Extreme Values & Sketching"
+  topic: "First Derivative Test"
+  web:
+    - url: /first-derivative-test-1/
+    - url: /first-derivative-test-2/
+    - url: /first-derivative-test-3/
+
+- unit: "Extreme Values & Sketching"
+  topic: "Maximum and Minimum Values"
+  web:
+    - url: /maximum-and-minimum-values-1/
+    - url: /maximum-and-minimum-values-2/
+    - url: /maximum-and-minimum-values-8/
+
+- unit: "Extreme Values & Sketching"
+  topic: "Sketching Polynomial Functions"
+  web:
+    - url: /sketching-polynomial-functions-1/
+    - url: /sketching-polynomial-functions-2/
+
+- unit: "Extreme Values & Sketching"
+  topic: "Max / Min Problems"
+  web:
+    - url: /max-min-problems-14/
+    - url: /max-min-problems-16/
+    - url: /max-min-problems-17/
+
+- unit: "Extreme Values & Sketching"
+  topic: "Vertical and Horizontal Asymptotes"
+  web:
+
+- unit: "Extreme Values & Sketching"
+  topic: "Concavity and Points of Inflection"
+  web:
+    - url: /concavity-and-points-of-inflection-1/
+
+- unit: "Extreme Values & Sketching"
+  topic: "A Curve Sketching Procedure"
+  web:
+    - url: /a-curve-sketching-procedure-10/
+    - url: /a-curve-sketching-procedure-11/
+
+- unit: Trigonometry
+  topic: "Trigonometric Basics"
+  web:
+    - url: /trigonometric-basics-1/
+
+- unit: Trigonometry
+  topic: "Sum / Difference and Double-Angle Identities"
+  web:
+
+- unit: Trigonometry
+  topic: "Solve Trigonometric Equations"
+  web:
+
+- unit: Trigonometry
+  topic: "Limits of Trig Functions"
+  web:
+
+- unit: Trigonometry
+  topic: "Derivatives of Sine and Cosine"
+  web:
+    - url: /derivatives-of-sine-and-cosine-1/
+
+- unit: Trigonometry
+  topic: "Derivatives of the Trig Functions"
+  web:
+
+- unit: Trigonometry
+  topic: "Applications of Trig Derivatives"
+  web:
+
+- unit: "Exponential & Logarithmic Functions"
+  topic: "Limits and Derivatives of Exponential Functions"
+  web:
+
+- unit: "Exponential & Logarithmic Functions"
+  topic: "Logarithmic Functions"
+  web:
+
+- unit: "Exponential & Logarithmic Functions"
+  topic: "Natural Logarithms"
+  web:
+
+- unit: "Exponential & Logarithmic Functions"
+  topic: "Derivatives of Exponential and Logarithmic Functions"
+  web:
+
+- unit: "Exponential & Logarithmic Functions"
+  topic: "Applications of Exponential / Log Derivatives"
+  web:
+
+- unit: Integration
+  topic: "Antiderivatives"
+  web:
+
+- unit: Integration
+  topic: "Differential Equations with Initial Conditions"
+  web:
+    - url: /differential-equations-with-initial-conditions-14/
+    - url: /differential-equations-with-initial-conditions-16/
+
+- unit: Integration
+  topic: "Area Under a Curve and Area Between Curves"
+  web:
+    - url: /area-under-a-curve-and-area-between-curves-1/
+
+- unit: Integration
+  topic: "The Fundamental Theorem of Calculus (Integration)"
+  web:
+    - url: /the-fundamental-theorem-of-calculus-1/
+
+- unit: Integration
+  topic: "The Substitution Rule"
+  web:

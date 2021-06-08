@@ -1,0 +1,190 @@
+- unit: "Polynomial Functions"
+  topic: "Solving Problems Involving Polynomial Functions"
+  web:
+  
+- unit: "Polynomial Functions"
+  topic: "Characteristics of Polynomial Functions"
+  web:
+    - url: /polynomial-functions-1/
+    - url: /polynomial-functions-2/
+    - url: /polynomial-functions-3/
+    - url: /polynomial-functions-4/
+
+- unit: "Polynomial Functions"
+  topic: "Equations of Polynomial Functions"
+  web:
+  
+- unit: "Exponential Functions"
+  topic: "Graphs and Equations of Exponential Functions"
+  web:
+  
+- unit: "Exponential Functions"
+  topic: "Applications of Exponential Functions"
+  web:
+  
+- unit: "Exponential Functions"
+  topic: "Solving Exponential Functions"
+  web:
+    - url: /solving-exponential-functions-1/
+    - url: /solving-exponential-functions-2/
+
+- unit: "Exponential Functions"
+  topic: "Exponential Equations and Regression"
+  web:
+  
+- unit: "Rational Expressions & Equations"
+  topic: "Exponents & Factoring"
+  web:
+    - url: /non-permissible-values-1/
+
+- unit: "Rational Expressions & Equations"
+  topic: "Simplifying Rational Expressions"
+  web:
+    - url: /simplifying-rational-expressions-1/
+    - url: /simplifying-rational-expressions-2/
+    - url: /simplifying-rational-expressions-3/
+    - url: /simplifying-rational-expressions-4/
+    - url: /simplifying-rational-expressions-5/
+    - url: /simplifying-rational-expressions-6/
+    - url: /simplifying-rational-expressions-7/
+
+- unit: "Rational Expressions & Equations"
+  topic: "Multiplying & Dividing Rational Expressions"
+  web:
+    - url: /multiplying-and-dividing-rational-expressions-1/
+    - url: /multiplying-and-dividing-rational-expressions-2/
+    - url: /multiplying-and-dividing-rational-expressions-3/
+    - url: /multiplying-and-dividing-rational-expressions-4/
+    - url: /multiplying-and-dividing-rational-expressions-5/
+    - url: /multiplying-and-dividing-rational-expressions-6/
+
+- unit: "Rational Expressions & Equations"
+  topic: "Adding & Subtracting Rational Expressions"
+  web:
+    - url: /adding-and-subtracting-rational-expressions-1/
+    - url: /adding-and-subtracting-rational-expressions-2/
+    - url: /adding-and-subtracting-rational-expressions-3/
+    - url: /adding-and-subtracting-rational-expressions-4/
+    - url: /adding-and-subtracting-rational-expressions-5/
+
+- unit: "Rational Expressions & Equations"
+  topic: "Solving Rational Expressions"
+  web:
+    - url: /solving-rational-expressions-1/
+    - url: /solving-rational-expressions-2/
+    - url: /solving-rational-expressions-3/
+    - url: /solving-rational-expressions-4/
+
+- unit: "Set Theory"
+  topic: "Logical Reasoning"
+  web:
+
+- unit: "Set Theory"
+  topic: "Sets & Set Notation"
+  web:
+
+- unit: "Set Theory"
+  topic: "Intersection & Union"
+  web:
+
+- unit: "Set Theory"
+  topic: "Applications of Set Theory"
+  web:
+
+- unit: "Logarithmic Functions"
+  topic: "Evaluating Logarithmic Equations"
+  web:
+    - url: /evaluating-logarithmic-equations-1/
+
+- unit: "Logarithmic Functions"
+  topic: "Laws of Logarithms"
+  web:
+    - url: /laws-of-logarithms-1/
+    - url: /laws-of-logarithms-2/
+
+- unit: "Logarithmic Functions"
+  topic: "Solving Exponential Equations Using Logarithms"
+  web:
+    - url: /solving-exponential-equations-using-logarithms-1/
+    - url: /solving-exponential-equations-using-logarithms-2/
+    - url: /solving-exponential-equations-using-logarithms-3/
+    - url: /solving-exponential-equations-using-logarithms-4/
+
+- unit: "Logarithmic Functions"
+  topic: "Graphs and Equations of Logarithmic Functions"
+  web:
+    - url: /graphs-and-equations-of-logarithmic-functions-1/
+
+- unit: "Logarithmic Functions"
+  topic: "Logarithmic Regression"
+  web:
+
+- unit: "Counting Methods"
+  topic: "Introduction to the Fundamental Counting Principle"
+  web:
+
+- unit: "Counting Methods"
+  topic: "Applications of FCP and Factorial Notation"
+  web:
+
+- unit: "Counting Methods"
+  topic: "Permutation Formula"
+  web:
+
+- unit: "Counting Methods"
+  topic: "Permutations with Restrictions"
+  web:
+
+- unit: "Counting Methods"
+  topic: "Permutations with Identical Objects"
+  web:
+
+- unit: "Counting Methods"
+  topic: "Combinations"
+  web:
+
+- unit: "Counting Methods"
+  topic: "Strategies for Solving Counting Problems"
+  web:
+
+- unit: "Probability"
+  topic: "Probability and Sample Space"
+  web:
+
+- unit: "Probability"
+  topic: "Probability and Odds"
+  web:
+
+- unit: "Probability"
+  topic: "Mutually Exclusive Events"
+  web:
+
+- unit: "Probability"
+  topic: "Independent and Dependent Events"
+  web:
+
+- unit: "Probability"
+  topic: "Probability using Counting Methods"
+  web:
+
+- unit: "Sinusoidal Functions"
+  topic: "Angular Measures"
+  web:
+    - url: /angular-measures-1/
+    - url: "/graphing-sinusoidal-functions-1/"
+
+- unit: "Sinusoidal Functions"
+  topic: "Exploring Graphs of Sinusoidal Functions"
+  web:
+    - url: "/amplitude-and-period-1/"
+    - url: "/amplitude-and-period-2/"
+    - url: /exploring-graphs-of-sinusoidal-functions-1/
+
+- unit: "Sinusoidal Functions"
+  topic: "The Equations of Sinusoidal Functions"
+  web:
+    - url: /the-equations-of-sinusoidal-functions-1/
+
+- unit: "Sinusoidal Functions"
+  topic: "Sinusoidal Regression"
+  web:

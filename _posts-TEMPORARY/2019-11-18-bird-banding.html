@@ -1,0 +1,72 @@
+---
+layout: post
+title: Bird banding
+category: Counting methods
+description:
+tags: Problem solving
+level: moderate
+grade: 12
+course: 30-2
+sourcetitle: North American Bird Banding Manual (1976). U.S. Fish and Wildlife Service & Canada Wildlife Service
+sourceurl: https://books.google.ca/books?id=sAZFAAAAYAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+video: na
+published: true
+---
+<div class="row">
+  <div class="col-sm-6">
+    <p>Bird banding is one of the most useful tools in the study of wild birds. Wild birds are captured and marked, usually with a numbered metal band placed on the leg. The bander records information about the bird, as well as where and when it was banded. Data from recovered bands provide information on the distribution and movement of species, their relative numbers, annual production, life span, and causes of death. Such information increases our knowledge and understanding of birds and their habits and helps us to manage and conserve them.</p>
+    <p>
+      <figure>
+        <img src="/images/bird-banding-2.jpg" style="width:100%">
+        <figcaption>Source: <a href="https://www.flickr.com/photos/usfwsmtnprairie/14726039425">U.S. Fish and Wildlife Service</a></figcaption>
+      </figure>
+    </p>
+  </div>
+  <div class="col-sm-6">
+    <p>For all birds, except hummingbirds, bands carry a unique 8 or 9 digit number which consists of two parts - a 3 digit prefix and a 5 to 6 digit suffix. The prefix consists of a two digit variable series number and cannot start with a zero. The third digit in the prefix is a band size indicator digit between 0 and 9.</p>
+    <p>
+      <img src="/images/bird-banding.png" width=100%>
+    </p>
+  </div>
+</div>
+<ol type="A">
+  <li>How many birds can be banded before running out of unique numbered bands?</li>
+  <li>Canada Geese require bands with a minimum size of 8. How many unique band numbers are possible for banding Canada Geese?</li>
+  <li>Hummingbird bands carry a 7000 prefix and a 4 to 5 digit suffix. How many humming birds can be banded before running out of uniquelly numbered bands</li>
+</ol>
+
+{% if true %}
+  <div class="accordion" id="accordionExample">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <h5 class="mb-0">
+          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+            <h2>Solution</h2>
+          </button>
+        </h5>
+      </div>
+      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="card-body">
+          <!--- Start solution --->
+          <h3>A.</h3>
+          <p>Number of arrangements of 8 digit bands: $9 \times 10 \times 10 \times 10 \times 10 \times 10 \times 10 \times 10 = 9 \times 10^7$. Number of arrangements of 9 digit bands: $9 \times 10 \times 10 \times 10 \times 10 \times 10 \times 10 \times 10 \times 10 = 9 \times 10^8$. Total number of arrangements $9 \times 10^7 + 9 \times 10^8 = 990000000$ possible arrangements.</p>
+
+          <h3>B.</h3>
+          <p>Number of arrangements of 8 digit bands: $9 \times 10 \times 2 \times 10 \times 10 \times 10 \times 10 \times 10 = 9 \times 2 \times 10^6$. Number of arrangements of 9 digit bands: $9 \times 10 \times 2 \times 10 \times 10 \times 10 \times 10 \times 10 \times 10 = 9 \times 2 \times 10^7$. Total number of arrangements $9 \times 2 \times 10^6 + 9 \times 2 \times 10^5 = 19800000$ possible arrangements.</p>
+
+          <h3>C.</h3>
+          <p>Number of arrangements of 4 digit suffix bands: $1 \times 10 \times 10 \times 10 \times 10 = 10^4$. There is only one choice for the prefix. Number of arrangements of 5 digit suffix bands: $1 \times 10 \times 10 \times 10 \times 10 \times 10 = 10^5$. Total number of arrangements $10^4 + 10^5 = 110000$ possible arrangements.</p>
+
+          <!--- End solution --->
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}
+
+<!-- Solution template
+{% capture solution %}
+
+{% endcapture %}
+{% include_relative solution.html content=solution %}
+-->

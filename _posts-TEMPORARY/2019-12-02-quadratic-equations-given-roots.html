@@ -1,0 +1,57 @@
+---
+layout: post
+title: Quadratic equations from given roots
+category: Quadratic Equations
+description: Determining quadratic equations from given roots
+tags: Skill building
+level: moderate
+grade: 12
+course: 20-2
+sourcetitle:
+sourceurl:
+video: na
+published: true
+---
+<p>Determine possible quadratic (or cubic) equations that have the following given roots. Express equations in expanded form.</p>
+<ol type="A">
+  <li>$\pm 2$</li>
+  <li>$5$ and $-1$</li>
+  <li>$\pm \displaystyle\frac{2}{3}$</li>
+  <li>$-\displaystyle\frac{1}{2}$ and $\displaystyle\frac{7}{2}$</li>
+  <li>$0$, $2$ and $8$ {% include_relative modal.html content="Cubic equations have three roots" %}</li>
+</ol>
+
+{% if true %}
+  <div class="accordion" id="accordionExample">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <h5 class="mb-0">
+          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+            <h2>Solution</h2>
+          </button>
+        </h5>
+      </div>
+      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="card-body">
+          <!--- Start solution --->
+          Answers may vary.
+          <ol type="A">
+            <li>$\pm 2 \Rightarrow$ $(x+2)(x-2)=0 \Rightarrow$ $(x^2-4)=0$</li>
+            <li>$5$ and $-1 \Rightarrow$ $(x-5)(x+1)=0 \Rightarrow$ $x^2-4x-5=0$</li>
+            <li>$\pm \displaystyle\frac{2}{3} \Rightarrow$ $\left(x+\displaystyle\frac{2}{3}\right)\left(x-\displaystyle\frac{2}{3}\right)=0 \Rightarrow$ $\left(x^2 - \displaystyle\frac{4}{9}\right)=0$</li>
+            <li>$-\displaystyle\frac{1}{2}$ and $\displaystyle\frac{7}{2} \Rightarrow$ $\left( x+\displaystyle\frac{1}{2} \right) \left( x-\displaystyle\frac{7}{2}\right)=0 \Rightarrow$ $x^2-3x-\displaystyle\frac{7}{4}=0$</li>
+            <li>$0$, $2$ and $8 \Rightarrow$ $x(x-2)(x-8)=0 \Rightarrow$ $x^3-8x^2-2x^2+16x=0$ </li>
+          </ol>
+          <!--- End solution --->
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}
+
+<!-- Solution template
+{% capture solution %}
+
+{% endcapture %}
+{% include_relative solution.html content=solution %}
+-->

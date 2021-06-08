@@ -1,0 +1,37 @@
+---
+layout: post
+title: Seasonal Sea Ice Extent
+learningoutcomes:
+  - code:
+sourcetitle: National Snow and Ice Data Center (2019)
+sourceurl: http://nsidc.org/arcticseaicenews/charctic-interactive-sea-ice-graph/
+video: na
+---
+<p>The amount of sea ice in the arctic varies seasonally and for the year 2018 it can be modelled by the cubic function $A(m) = 0.069x^3 - 1.3x^2 + 6.04x + 6.73$ where $m$ represents the month (January is month 1 and December is month 12) and $A$ represents the area of the sea ice in millions of square kilometers.</p>
+<ol type="A">
+  <li>Sketch the function describing the extent of sea ice. Label the axes appropriatelly. </li>
+  <li>Determine the maximum area of sea ice coverage to the nearest thousand of a million square kilometer.</li>
+  <li>Determine the minimum area of sea ice coverage to the nearest thousand of a million square kilometer.</li>
+  <li>Determine during which month the the sea ice covers the largest area.</li>
+  <li>Determine during which month the the sea ice covers the smallest area.</li>
+  <li>What is an appropriate domain and range for this context? Round quantities to the nearest thousand if necessary</li>
+  <!--<li>The total land area of Canada is 9093507 $\mbox{km}^2$. Determine for how many months in 2018 the area of the sea ice in the Arctic was large than the land area of Canada.</li>-->
+</ol>
+
+{% capture solution %}
+<h3>A.</h3>
+<img src="http://maythemathbewithyou.com/tex/seasonl-sea-ice-extent.png">
+<h3>B.</h3>
+Maximum sea ice area $= 15.017$ million km$^2$.
+<h3>C.</h3>
+Minimum sea ice area $= 5.944$ million km$^2$.
+<h3>D.</h3>
+The x-coordinate of the maximum is 3.076..., hence during March the sea ice covered the largest area.
+<h3>E.</h3>
+The x-coordinate of the minimum is 9.483..., hence during September the sea ice covered the smallest area.
+<h3>F.</h3>
+Domain: ${m | 1 \leq m \leq 12, x \in R}$ or $[1,12]$ and Range: ${A | 0 \leq A \leq 15, A \in R}$ or $[0, 15]$. Other answers are possible.
+<!--<h3>G.</h3>
+Graph $A(m)$ and add a horizontal line as second function $Y_2=9.093507$. Determine the m-coordinates of the points of intersection of the two functions. The m-xoordinates of the points of intersection are $m_1=6.94...$ and $m_2=11.47$, so the sea ice area was larger than the land area of Canada between January and end on June (month 6) and between mid November (month 11) and December 31.-->
+{% endcapture %}
+{% include_relative solution.html content=solution %}

@@ -1,0 +1,22 @@
+\documentclass[tikz, border = 5pt]{standalone}
+
+\begin{document}
+\begin{tikzpicture}
+ 
+ % axis
+  \draw[ultra thick, <->] (0, -5.1) -- (0, 5.1) node[left, black, scale=1] {y};
+  \draw[ultra thick, <->] (-5.1, 0) -- (5.1, 0) node[below, black, scale=1] {x};
+
+  % grid
+  \draw[help lines, step = 0.5cm] (-5, -5) grid (5, 5);
+
+\draw[ultra thick, scale=0.5, domain=-3:3,smooth,variable=\x, blue, <->] plot ({\x},{\x*\x}) node[right, black, scale=2] {A};
+
+\draw[ultra thick, scale=0.5, domain=-8:8,smooth,variable=\x, blue, <->] plot ({\x},{-1/2*\x-2}) node[below, black, scale=2] {B};
+
+\draw[ultra thick, scale=0.5, domain=-2.25:2.25,smooth,variable=\x, blue, <->] plot ({\x},{-\x*\x-4}) node[right, black, scale=2] {C};
+
+\draw[ultra thick, scale=0.5, domain=-2.25:2.25,smooth,variable=\x, blue, <->] plot ({\x*\x+4}, {\x}) node[below, black, scale=2] {D};
+
+\end{tikzpicture}
+\end{document}

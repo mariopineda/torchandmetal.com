@@ -1,17 +1,20 @@
 ---
-layout: default
+layout: default-post
 ---
+$$\require{newcommand}$$
+$$\newcommand{\fraction}[2]{\displaystyle\frac{#1}{#2}}$$
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
+<h1>{{ page.title }}</h1>
+{{ content }}
 
-  <div class="entry">
-    {{ content }}
-  </div>
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
-  {% include disqus.html %}
-</article>
+<!-- Footer -->
+<footer class="text-muted">
+  <p align="right">
+    {% if page.sourcetitle != nil %}
+      Based on: <a href="{{ page.sourceurl }}">{{ page.sourcetitle }}</a><br>
+    {% endif %}
+    {% include report-errors.html %} <br>
+  </p>
+</footer>
+<!-- END Footer -->

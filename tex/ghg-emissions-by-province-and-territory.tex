@@ -1,0 +1,38 @@
+\documentclass{article}
+\usepackage{tikz}
+\begin{document}
+
+% Definition of circles
+\def\firstcircle{(0,0) circle (1.5cm)}
+\def\secondcircle{(0:2cm) circle (1.5cm)}
+\def\thirdcircle{(0:4cm) circle (1.5cm)}
+
+\colorlet{circle edge}{black}
+\colorlet{circle area}{black}
+
+\tikzset{filled/.style={fill=circle area, draw=circle edge, thick},
+    outline/.style={draw=circle edge, thick}}
+
+\setlength{\parskip}{5mm}
+\begin{tikzpicture}
+    \draw[ultra thick] (-2,-2) -- (-2,2) -- (6,2) -- (6,-2) -- (-2,-2);
+
+    \draw[outline, ultra thick] \firstcircle;
+    \draw[outline, ultra thick] \secondcircle;
+    \draw[outline, ultra thick] \thirdcircle;
+    \node[scale=.8] at (0,1.75) {$D$};
+    \node[scale=.8] at (2,1.75) {$H$};
+    \node[scale=.8] at (4,1.75) {$I$};
+    \node[scale=.8] at (-1.8,1.8) {$C$};
+
+    \node[scale=.8] at (-.25,-0.5) {PE, NS};
+    \node[scale=.8] at (-.25,0.5) {NB, QC};
+    \node[scale=.8] at (1,0) {ON};
+
+    \node[scale=.8] at (4.3,-.5) {NL, MB, NT};
+    \node[scale=.8] at (4.3,.5) {SK, NU, BC};
+    \node[scale=.8] at (3,0) {AB};
+
+    \node[scale=.8] at (-1,-1.6) {YT};
+\end{tikzpicture}
+\end{document}

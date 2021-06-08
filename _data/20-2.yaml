@@ -1,0 +1,209 @@
+- unit: Review
+  topic: "Arithmetics"
+  web:
+    - url: /integer-arithmetics-1/
+    - url: /integer-arithmetics-2/
+    - url: /integer-arithmetics-3/
+    - url: /fractions-1/
+    - url: /fractions-2/
+    - url: /fractions-3/
+    - url: /fraction-arithmetics-1/
+    - url: /fraction-arithmetics-2/
+    - url: /fraction-arithmetics-3/
+    - url: /fraction-arithmetics-4/
+    - url: /evaluate-rationals-expressions/
+    - url: /order-of-operations/
+
+- unit: Review
+  topic: "Polynomials"
+  web:
+    - url: /review-of-polynomials-1/
+    - url: /review-of-polynomials-2/
+    - url: /review-of-polynomials-3/
+    - url: /review-of-polynomials-4/
+    - url: /review-of-polynomials-5/
+    - url: /review-of-polynomials-6/
+
+- unit: Review
+  topic: "Algebra"
+  web:
+    - url: /solving-equations-1/
+    - url: /solving-equations-2/
+    - url: /solving-equations-3/
+    - url: /solving-equations-4/
+    - url: /solving-equations-5/
+    - url: /solving-equations-6/
+    - url: /solving-equations-7/
+    - url: /solving-equations-8/
+
+- unit: "Reasoning"
+  topic: "Inductive Reasoning, Conjectures and Counterexamples"
+  web:
+    - url: /inductive-reasoning-1/
+    - url: /inductive-reasoning-2/
+
+- unit: "Reasoning"
+  topic: "Deductive Reasoning"
+  web:
+    - url: /deductive-reasoning-1/
+    - url: /deductive-reasoning-2/
+    - url: /number-expressions/
+
+- unit: "Reasoning"
+  topic: "Games and Puzzles"
+  web:
+
+- unit: "Properties of Angles"
+  topic: "Angles formed by Parallel Lines"
+  web:
+    - url: /angles-and-parallel-lines/
+
+- unit: "Properties of Angles"
+  topic: "Angle Properties in Triangles"
+  web:
+    - url: /angles-in-triangles/
+    - url: /angles-in-polygons/
+
+- unit: "Properties of Angles"
+  topic: "Congruent Triangles"
+  web:
+
+- unit: "Trigonometry"
+  topic: "Solving Right Triangles"
+  web:
+    - url: /trigonometry-1/
+    - url: /trigonometry-8/
+    - url: /trigonometry-9/
+    - url: /trigonometry-10/
+    - url: /solving-triangles/
+    - url: /solving-oblique-triangles/
+
+- unit: "Trigonometry"
+  topic: "The Sine Law"
+  web:
+    - url: /solving-oblique-triangles-using-the-sine-law/
+
+- unit: "Trigonometry"
+  topic: "The Cosine Law"
+  web:
+    - url: /solving-oblique-triangles-using-the-cosine-law/
+
+- unit: "Trigonometry"
+  topic: "Solving Problems with Right and Oblique Triangles"
+  web:
+    - url: /solving-pairs-of-triangles/
+
+- unit: "Proportional Reasoning"
+  topic: "Slope and Rate of Change"
+  web:
+    - url: /unit-rate/
+    - url: /rate-of-change/
+    - url: /rate-of-sea-level-rise/
+
+- unit: "Proportional Reasoning"
+  topic: "Scale Diagrams "
+  web:
+
+- unit: "Proportional Reasoning"
+  topic: "Scale Factors and Area of 2D Shapes"
+  web:
+
+- unit: "Proportional Reasoning"
+  topic: "Scale Factors and Surface Area of 3D Shapes"
+  web:
+
+- unit: "Proportional Reasoning"
+  topic: "Scale factors and Volumes of 3D Objects"
+  web:
+
+- unit: "Radicals"
+  topic: "Solving Radical Equations"
+  web:
+    - url: /solving-equations-1/
+    - url: /solving-equations-2/
+    - url: /solving-equations-3/
+    - url: /solving-equations-4/
+    - url: /solving-equations-5/
+    - url: /solving-equations-6/
+    - url: /solving-equations-7/
+    - url: /solving-equations-8/
+
+- unit: "Radicals"
+  topic: "Entire and Mixed Radicals"
+  web:
+    - url: /solving-equations-1/
+    - url: /solving-equations-2/
+    - url: /solving-equations-3/
+    - url: /solving-equations-4/
+    - url: /solving-equations-5/
+    - url: /solving-equations-6/
+    - url: /solving-equations-7/
+    - url: /solving-equations-8/
+
+- unit: "Radicals"
+  topic: "Multiplying and Dividing Radicals"
+  web:
+
+- unit: "Radicals"
+  topic: "Adding and Subtracting Radicals"
+  web:
+
+- unit: "Radicals"
+  topic: "Radicals with Variable Radicands"
+  web:
+
+- unit: "Quadratic Functions"
+  topic: "Domain and Range"
+  web:
+
+- unit: "Quadratic Functions"
+  topic: "Standard Form of a Quadratic Function"
+  web:
+
+- unit: "Quadratic Functions"
+  topic: "Vertex Form of a Quadratic Function"
+  web:
+
+- unit: "Quadratic Equations"
+  topic: "Common Factors"
+  web:
+
+- unit: "Quadratic Equations"
+  topic: "Factoring Trinomials in Standard Form, a=1"
+  web:
+
+- unit: "Quadratic Equations"
+  topic: "Factoring a Difference of Squares"
+  web:
+
+- unit: "Quadratic Equations"
+  topic: "The Quadratic Formula"
+  web:
+
+- unit: "Quadratic Equations"
+  topic: "Solving Quadratic Equations Graphically"
+  web:
+
+- unit: "Quadratic Equations"
+  topic: "Applications of Quadratic Equations"
+  web:
+
+- unit: "Statistics"
+  topic: "Describing Data"
+  web:
+
+- unit: "Statistics"
+  topic: "The Normal Distribution"
+  web:
+
+- unit: "Statistics"
+  topic: "Applications of Normal Distribution"
+  web:
+
+- unit: "Statistics"
+  topic: "Z-scores"
+  web:
+
+- unit: "Statistics"
+  topic: "Margin of Error, Confidence Interval and Confidence Level"
+  web:

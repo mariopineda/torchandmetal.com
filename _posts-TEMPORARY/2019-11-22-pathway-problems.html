@@ -1,0 +1,75 @@
+---
+layout: post
+title: Pathway problems
+category: Counting methods
+description: Determining the number of paths between two or several points on a grid
+tags: Problem solving
+level: moderate
+grade: 12
+course: 30-2
+sourcetitle:
+sourceurl:
+video: na
+published: true
+---
+<p>Determine the number of shortest possibe routes to get from point A to point B. Paths must travel through indicated intermediate points.</p>
+
+<div class="row">
+  <div class="col-sm-6">
+    <h3>A.</h3>
+    <img src="http://maythemathbewithyou.com/tex/pathway-problems-1.png" width=75%>
+  </div>
+  <div class="col-sm-6">
+    <h3>B.</h3>
+    <img src="http://maythemathbewithyou.com/tex/pathway-problems-2.png" width=75%>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6">
+    <h3>C.</h3>
+    <img src="http://maythemathbewithyou.com/tex/pathway-problems-3.png" width=75%>
+  </div>
+  <div class="col-sm-6">
+    <h3>D.</h3>
+    <img src="http://maythemathbewithyou.com/tex/pathway-problems-4.png" width=75%>
+  </div>
+</div>
+
+{% if true %}
+  <div class="accordion" id="accordionExample">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <h5 class="mb-0">
+          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+            <h2>Solution</h2>
+          </button>
+        </h5>
+      </div>
+      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="card-body">
+          <!--- Start solution --->
+          <h3>A.</h3>
+          4 up and 6 right, total 10 steps $\Rightarrow \displaystyle\frac{10!}{4! \times 6!} = 210$ possible paths
+
+          <h3>B.</h3>
+          4 up and 3 right, total 7 steps and 2 up and 4 right, total 6 $\Rightarrow \displaystyle\frac{7!}{4! \times 3!} \times \displaystyle\frac{6!}{2! \times 4!} = 525$ possible paths
+
+          <h3>C.</h3>
+          Same as B since one cannot go left or down. Pathways in the top left and bottom right that would prevent you to go through point C are dead ends.
+
+          <h3>D.</h3>
+          $\displaystyle\frac{7!}{4! \times 3!} \times 1 \times \displaystyle\frac{7!}{4! \times 3!} = 35 \times 1 \times 35 = 1225$ possible paths
+          <!--- End solution --->
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}
+
+<!-- Solution template
+{% capture solution %}
+
+{% endcapture %}
+{% include_relative solution.html content=solution %}
+-->

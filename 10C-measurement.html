@@ -1,0 +1,26 @@
+---
+layout: default
+permalink: 10C/measurement/index.html
+title: "Math 10C: Measurement"
+---
+<h1>{{ page.title }}</h1>
+
+{% for entry in site.data.10C %}
+  {% if entry.unit == "Measurement" %}
+    <h3>{{ entry.topic }}</h3>
+    <ul>
+    {% for item in entry.web %}
+      {% for post in site.posts %}
+        {% if post.url == item.url %}
+          <li>
+            <a href="{{ item.url }}">{{ post.title }}</a>
+            {% if post.video != "na" %}
+              <img src="/images/video.png" width="25" title="Video solution avaliable">
+            {% endif %}
+          </li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}

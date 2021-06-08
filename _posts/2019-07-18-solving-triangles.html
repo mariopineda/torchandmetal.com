@@ -1,0 +1,51 @@
+---
+layout: post
+title: Solving Triangles
+learningoutcomes:
+  - code:
+sourcetitle:
+sourceurl:
+video: na
+---
+
+<p>
+  <ol type="A">
+    <li>Draw and label $\triangle ABC$ with $\angle B=27^\circ$, $a=10 \mbox{ cm}$, $\angle A=90^\circ$.</li>
+    <li>Determine $c$ to the nearest tenth.</li>
+    <li>Determine $\angle C$ to the nearest whole degree.</li>
+    <li>Determine $b$ to the nearest tenth.
+    </ol>
+  </p>
+{% capture solution %}
+<h3>A.</h3>
+<img src="http://maythemathbewithyou.com/tex/solvingtriangles.png">
+<h3>B.</h3>
+$$
+\begin{array}{rcl}
+\cos{27^\circ} & = & \frac{\displaystyle c}{\displaystyle a} = \frac{\displaystyle c}{\displaystyle 10} \\
+c & = & 10 \times \cos{27^\circ}\\
+c & = & 8.9100... \approx 8.9 \mbox{ cm}
+\end{array}
+$$
+
+<h3>C.</h3>
+$$
+\begin{array}{rcl}
+\sin{\angle C} & = & \frac{\displaystyle c}{\displaystyle a} = \frac{\displaystyle 8.9...}{\displaystyle 10} \\
+\angle C & = & \sin^{-1}{\left( \frac{\displaystyle 8.9...}{\displaystyle 10} \right)} \\
+\angle C & = & 63^\circ
+\end{array}
+$$
+
+<h3>D.</h3>
+The length of edge $b$ can be determined by using the Pythagorean Theorem or a primary trigonometric ratio. Here we are using the Pythagorean Theorem,
+$$
+\begin{array}{rcl}
+b^2 + 8.9...^2 & = & 10^2 \\
+b^2 & = & 10^2-8.9...^2 \\
+b & = & \sqrt{10^2-8.9...^2} \\
+b & = & 4.5399... \approx 4.5 \mbox{ cm}
+\end{array}
+$$
+{% endcapture %}
+{% include_relative solution.html content=solution %}

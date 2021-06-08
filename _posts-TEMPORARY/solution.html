@@ -1,0 +1,19 @@
+{% for entry in site.data.donow %}
+  {% if page.course == entry.class %}
+    {% if entry.url != page.url %}
+      <p align="left"><a class="btn btn-outline-secondary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Solution</a></p>
+      <div class="collapse" id="collapseExample">
+        <div class="card card-body bg-transparent border-0">
+          {{ include.content }}
+
+          {% if page.video != "na"" %}
+            <iframe width="560" height="315" src="{{ page.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          {% endif %}
+
+          <div class="col-xs-12" style="height:500px;"></div>
+
+        </div>
+      </div>
+    {% endif %}
+  {% endif %}
+{% endfor %}

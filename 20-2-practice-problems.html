@@ -1,0 +1,61 @@
+---
+layout: default
+permalink: 20-2-practice-problems/index.html
+title: 20-2 Practice Problems
+---
+<h1>{{ page.title }}</h1>
+<p>The following material is aligned with the Alberta Education High School Program of Study in Mathematics for the grade 11 course Math 20-2.</p>
+
+<p>The order in which the practice problems are listed is the recommended order in which they may be completed. </p>
+
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col"></th>
+      <th scope="col">Learning Outcome</th>
+      <th scope="col">Topic</th>
+      <th scope="col">Achievement indicator</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for post in site.posts reversed%}
+      {% if post.course == "20-2" %}
+        <tr>
+          <td>
+            <a href="{{ post.url }}">{{ post.title }}
+            {% if post.video != "na" %}
+              <img src="/images/video.png" width="25" title="Video solution avaliable">
+            {% endif %}
+          </td>
+          <td>
+            {% for i in post.learningoutcomes %}
+              {{ i.code }}<br>
+            {% endfor %}
+          </td>
+          <td>
+            {% assign tmp = "" %}
+            {% for i in post.learningoutcomes %}
+              {% for entry in site.data.learning-outcomes %}
+                {% if i.code == entry.code %}
+                  {% if tmp != entry.topic %}
+                    {{ entry.topic }}<br>
+                  {% endif %}
+                  {% assign tmp = entry.topic %}
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          </td>
+          <td>
+            {% for i in post.learningoutcomes %}
+              {% for entry in site.data.learning-outcomes %}
+                {% if i.code == entry.code %}
+                  {{ entry.achievementindicator }}<br>
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          </td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+</table>

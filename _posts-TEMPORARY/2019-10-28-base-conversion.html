@@ -1,0 +1,58 @@
+---
+layout: post
+title: Base conversion
+category: Logarithms
+description: Converting the base in powers
+tags: Problem solving
+level: difficult
+grade: 12
+course: 30-2
+sourcetitle:
+sourceurl:
+video: na
+published: true
+---
+<p>Convert each of the following powers to the base indicated.</p>
+<ol type="A">
+  <li>$32^x$ to base 2</li>
+  <li>$1000^{x+1}$ to base 10</li>
+  <li>$81^{x-2}$ to base 3</li>
+  <li>$\left( \displaystyle\frac{25}{49} \right)^{3x}$ to base $\displaystyle\frac{5}{7}$</li>
+  <li>$\left( \displaystyle\frac{1}{16} \right)^{x+1}$ to base 2.</li>
+  <li>$\displaystyle\frac{1}{4} \times \left( \displaystyle\frac{1}{16} \right)^{4-x}$ to base 4</li>
+</ol>
+
+{% if true %}
+  <div class="accordion" id="accordionExample">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <h5 class="mb-0">
+          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+            <h2>Solution</h2>
+          </button>
+        </h5>
+      </div>
+      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="card-body">
+          <!--- Start solution --->
+          <ol type="A">
+            <li>$32^x$ to base 2 $= 2^{5x}$</li>
+            <li>$1000^{x+1}$ to base 10 $=(10^3)^{x+1}$ $=10^{3(x+1)}$ $10^{3x+3}$</li>
+            <li>$81^{x-2}$ to base 3 $=(3^4)^{x-2}$ $=3^{4(x-2)}$ $=3^{4x-8}$</li>
+            <li>$\left( \displaystyle\frac{25}{49} \right)^{3x}$ to base $\displaystyle\frac{5}{7}$ $=\left( \displaystyle\frac{5^5}{7^7} \right)^{3x}$ $=\displaystyle\frac{5^{5 \times 3x}}{t \times 3x}$ $=\displaystyle\frac{5^{15x}}{7^{21x}}$</li>
+            <li>$\left( \displaystyle\frac{1}{16} \right)^{x+1}$ to base 2 $=2^{-4(x+1)}$ $=2^{-4x-4}$</li>
+            <li>$\displaystyle\frac{1}{4} \times \left( \displaystyle\frac{1}{16} \right)^{4-x}$ to base 4 $=4^{-1} \times (4^2)^{4-x}$ $=4^{-1} \times 4^{-2(4-x)}$ $=4^{-1} \times 4^{-8+2x}$ $=4^{-1+(-8)+2x}$ $=4^{-9+2x}$</li>
+          </ol>
+          <!--- End solution --->
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}
+
+<!-- Solution template
+{% capture solution %}
+
+{% endcapture %}
+{% include_relative solution.html content=solution %}
+-->

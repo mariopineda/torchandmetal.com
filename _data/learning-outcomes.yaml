@@ -1,0 +1,958 @@
+- code: 10C-Measurement-1.1
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve linear measurement, using: SI and imperial units of measure, estimation strategies, and measurement strategies."
+  achievementindicator: "Provide referents for linear measurements, including millimetre, centimetre, metre, kilometre, inch, foot, yard and mile, and explain the choices."
+
+- code: 10C-Measurement-1.2
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve linear measurement, using: SI and imperial units of measure, estimation strategies, and measurement strategies."
+  achievementindicator: "Compare SI and imperial units, using referents."
+
+- code: 10C-Measurement-1.3
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve linear measurement, using: SI and imperial units of measure, estimation strategies, and measurement strategies."
+  achievementindicator: "Estimate a linear measure, using a referent, and explain the process used."
+
+- code: 10C-Measurement-1.4
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve linear measurement, using: SI and imperial units of measure, estimation strategies, and measurement strategies."
+  achievementindicator: "Justify the choice of units used for determining a measurement in a problem-solving context."
+
+- code: 10C-Measurement-1.5
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve linear measurement, using: SI and imperial units of measure, estimation strategies, and measurement strategies."
+  achievementindicator: "Solve problems that involve linear measure, using instruments such as rulers, calipers or tape measures"
+
+- code: 10C-Measurement-1.6
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve linear measurement, using: SI and imperial units of measure, estimation strategies, and measurement strategies."
+  achievementindicator: "Describe and explain a personal strategy used to determine a linear measurement; e.g., circumference of a bottle, length of a curve, perimeter of the base of an irregular 3-D object."
+
+- code: 10C-Measurement-2.1
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "2. Apply proportional reasoning to problems that involve conversions between SI and imperial units of measure."
+  achievementindicator: "Explain how proportional reasoning can be used to convert a measurement within or between SI and imperial systems."
+
+- code: 10C-Measurement-2.2
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "2. Apply proportional reasoning to problems that involve conversions between SI and imperial units of measure."
+  achievementindicator: "Solve a problem that involves the conversion of units within or between SI and imperial systems."
+
+- code: 10C-Measurement-2.3
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "2. Apply proportional reasoning to problems that involve conversions between SI and imperial units of measure."
+  achievementindicator: "Verify, using unit analysis, a conversion within or between SI and imperial systems, and explain the conversion."
+
+- code: 10C-Measurement-2.4
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "2. Apply proportional reasoning to problems that involve conversions between SI and imperial units of measure."
+  achievementindicator: "Justify, using mental mathematics, the reasonableness of a solution to a conversion problem."
+
+- code: 10C-Measurement-3.1
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Solve problems, using SI and imperial units, that involve the surface area and volume of 3-D objects, including: right cones, right cylinders, right prisms, right pyramids, spheres."
+  achievementindicator: "Sketch a diagram to represent a problem that involves surface area or volume."
+
+- code: 10C-Measurement-3.2
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Solve problems, using SI and imperial units, that involve the surface area and volume of 3-D objects, including: right cones, right cylinders, right prisms, right pyramids, spheres."
+  achievementindicator: "Determine the surface area of a right cone, right cylinder, right prism, right pyramid or sphere, using an object or its labelled diagram."
+
+- code: 10C-Measurement-3.3
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Solve problems, using SI and imperial units, that involve the surface area and volume of 3-D objects, including: right cones, right cylinders, right prisms, right pyramids, spheres."
+  achievementindicator: "Determine the volume of a right cone, right cylinder, right prism, right pyramid or sphere, using an object or its labelled diagram."
+
+- code: 10C-Measurement-3.4
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Solve problems, using SI and imperial units, that involve the surface area and volume of 3-D objects, including: right cones, right cylinders, right prisms, right pyramids, spheres."
+  achievementindicator: "Determine an unknown dimension of a right cone, right cylinder, right prism, right pyramid or sphere, given the object’s surface area or volume and the remaining dimensions."
+
+- code: 10C-Measurement-3.5
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Solve problems, using SI and imperial units, that involve the surface area and volume of 3-D objects, including: right cones, right cylinders, right prisms, right pyramids, spheres."
+  achievementindicator: "Solve a problem that involves surface area or volume, given a diagram of a composite 3-D object."
+
+- code: 10C-Measurement-3.6
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Solve problems, using SI and imperial units, that involve the surface area and volume of 3-D objects, including: right cones, right cylinders, right prisms, right pyramids, spheres."
+  achievementindicator: "Describe the relationship between the volumes of: right cones and right cylinders with the same base and height, right pyramids and right prisms with the same base and height."
+
+- code: 10C-Measurement-4.1
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "4. Develop and apply the primary trigonometric ratios (sine, cosine, tangent) to solve problems that involve right triangles."
+  achievementindicator: "Explain the relationships between similar right triangles and the definitions of the primary trigonometric ratios."
+
+- code: 10C-Measurement-4.2
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "4. Develop and apply the primary trigonometric ratios (sine, cosine, tangent) to solve problems that involve right triangles."
+  achievementindicator: "Identify the hypotenuse of a right triangle and the opposite and adjacent sides for a given acute angle in the triangle."
+
+- code: 10C-Measurement-4.3
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "4. Develop and apply the primary trigonometric ratios (sine, cosine, tangent) to solve problems that involve right triangles."
+  achievementindicator: "Solve right triangles."
+
+- code: 10C-Measurement-4.4
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "4. Develop and apply the primary trigonometric ratios (sine, cosine, tangent) to solve problems that involve right triangles."
+  achievementindicator: "Solve a problem that involves one or more right triangles by applying the primary trigonometric ratios or the Pythagorean theorem."
+
+- code: 10C-Measurement-4.5
+  course: 10C
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "4. Develop and apply the primary trigonometric ratios (sine, cosine, tangent) to solve problems that involve right triangles."
+  achievementindicator: "Solve a problem that involves indirect and direct measurement, using the trigonometric ratios, the Pythagorean theorem and measurement instruments such as a clinometer or metre stick."
+
+- code: 10C-Algebra-and-Numbers-1.1
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "1. Demonstrate an understanding of factors of whole numbers by determining the: prime factors, greatest common factor, least common multiple, square root, cube root."
+  achievementindicator: "Determine the prime factors of a whole number."
+
+- code: 10C-Algebra-and-Numbers-1.2
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "1. Demonstrate an understanding of factors of whole numbers by determining the: prime factors, greatest common factor, least common multiple, square root, cube root."
+  achievementindicator: "Explain why the numbers 0 and 1 have no prime factors."
+
+- code: 10C-Algebra-and-Numbers-1.3
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "1. Demonstrate an understanding of factors of whole numbers by determining the: prime factors, greatest common factor, least common multiple, square root, cube root."
+  achievementindicator: "Determine, using a variety of strategies, the greatest common factor or least common multiple of a set of whole numbers, and explain the process."
+
+- code: 10C-Algebra-and-Numbers-1.4
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "1. Demonstrate an understanding of factors of whole numbers by determining the: prime factors, greatest common factor, least common multiple, square root, cube root."
+  achievementindicator: "Determine, concretely, whether a given whole number is a perfect square, a perfect cube or neither."
+
+- code: 10C-Algebra-and-Numbers-1.5
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "1. Demonstrate an understanding of factors of whole numbers by determining the: prime factors, greatest common factor, least common multiple, square root, cube root."
+  achievementindicator: "Determine, using a variety of strategies, the square root of a perfect square, and explain the process."
+
+- code: 10C-Algebra-and-Numbers-1.6
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "1. Demonstrate an understanding of factors of whole numbers by determining the: prime factors, greatest common factor, least common multiple, square root, cube root."
+  achievementindicator: "Determine, using a variety of strategies, the cube root of a perfect cube, and explain the process."
+
+- code: 10C-Algebra-and-Numbers-1.7
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "1. Demonstrate an understanding of factors of whole numbers by determining the: prime factors, greatest common factor, least common multiple, square root, cube root."
+  achievementindicator: "Solve problems that involve prime factors, greatest common factors, least common multiples, square roots or cube roots."
+
+- code: 10C-Algebra-and-Numbers-2.1
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
+  achievementindicator: "Sort a set of numbers into rational and irrational numbers."
+
+- code: 10C-Algebra-and-Numbers-2.2
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
+  achievementindicator: "Determine an approximate value of a given irrational number."
+
+- code: 10C-Algebra-and-Numbers-2.3
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
+  achievementindicator: "Approximate the locations of irrational numbers on a number line, using a variety of strategies, and explain the reasoning."
+
+- code: 10C-Algebra-and-Numbers-2.4
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
+  achievementindicator: "Order a set of irrational numbers on a number line."
+
+- code: 10C-Algebra-and-Numbers-2.5
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
+  achievementindicator: "Express a radical as a mixed radical in simplest form (limited to numerical radicands)."
+
+- code: 10C-Algebra-and-Numbers-2.6
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
+  achievementindicator: "Express a mixed radical as an entire radical (limited to numerical radicands)."
+
+- code: 10C-Algebra-and-Numbers-2.7
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
+  achievementindicator: "Explain, using examples, the meaning of the index of a radical."
+
+- code: 10C-Algebra-and-Numbers-2.8
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "2. Demonstrate an understanding of irrational numbers by: representing, identifying and simplifying irrational numbers, ordering irrational numbers."
+  achievementindicator: "Represent, using a graphic organizer, the relationship among the subsets of the real numbers (natural, whole, integer, rational, irrational)."
+
+- code: 10C-Algebra-and-Numbers-3.1
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "3. Demonstrate an understanding of powers with integral and rational exponents."
+  achievementindicator: "Explain, using patterns, the Negative Exponent Law."
+
+- code: 10C-Algebra-and-Numbers-3.2
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "3. Demonstrate an understanding of powers with integral and rational exponents."
+  achievementindicator: "Explain, using patterns, why powers with rational exponents can be expressed in radicals form."
+
+- code: 10C-Algebra-and-Numbers-3.3
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "3. Demonstrate an understanding of powers with integral and rational exponents."
+  achievementindicator: "Apply the exponent laws: Product Law, Quotient Law, Power of a Power Law, Power of a Product Law and Power of a Quotient Law to expressions with rational and variable bases and integral and rational exponents, and explain the reasoning."
+
+- code: 10C-Algebra-and-Numbers-3.4
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "3. Demonstrate an understanding of powers with integral and rational exponents."
+  achievementindicator: "Express powers with rational exponents as radicals and vice versa."
+
+- code: 10C-Algebra-and-Numbers-3.5
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "3. Demonstrate an understanding of powers with integral and rational exponents."
+  achievementindicator: "Solve a problem that involves exponent laws or radicals."
+
+- code: 10C-Algebra-and-Numbers-3.6
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "3. Demonstrate an understanding of powers with integral and rational exponents."
+  achievementindicator: "Identify and correct errors in a simplification of an expression that involves powers."
+
+- code: 10C-Algebra-and-Numbers-4.1
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "4. Demonstrate an understanding of the multiplication of polynomial expressions (limited to monomials, binomials and trinomials), concretely, pictorially and symbolically."
+  achievementindicator: "Model the multiplication of two given binomials, concretely or pictorially, and record the process symbolically."
+
+- code: 10C-Algebra-and-Numbers-4.2
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "4. Demonstrate an understanding of the multiplication of polynomial expressions (limited to monomials, binomials and trinomials), concretely, pictorially and symbolically."
+  achievementindicator: "Relate the multiplication of two binomial expressions to an area model."
+
+- code: 10C-Algebra-and-Numbers-4.3
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "4. Demonstrate an understanding of the multiplication of polynomial expressions (limited to monomials, binomials and trinomials), concretely, pictorially and symbolically."
+  achievementindicator: "Explain, using examples, the relationship between the multiplication of binomials and the multiplication of two-digit numbers."
+
+- code: 10C-Algebra-and-Numbers-4.4
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "4. Demonstrate an understanding of the multiplication of polynomial expressions (limited to monomials, binomials and trinomials), concretely, pictorially and symbolically."
+  achievementindicator: "Verify a polynomial product by substituting numbers for the variables."
+
+- code: 10C-Algebra-and-Numbers-4.5
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "4. Demonstrate an understanding of the multiplication of polynomial expressions (limited to monomials, binomials and trinomials), concretely, pictorially and symbolically."
+  achievementindicator: "Multiply two polynomials symbolically, and combine like terms in the product."
+
+- code: 10C-Algebra-and-Numbers-4.6
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "4. Demonstrate an understanding of the multiplication of polynomial expressions (limited to monomials, binomials and trinomials), concretely, pictorially and symbolically."
+  achievementindicator: "Generalize and explain a strategy for multiplication of polynomials."
+
+- code: 10C-Algebra-and-Numbers-4.7
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "4. Demonstrate an understanding of the multiplication of polynomial expressions (limited to monomials, binomials and trinomials), concretely, pictorially and symbolically."
+  achievementindicator: "Identify and explain errors in a solution for a polynomial multiplication."
+
+- code: 10C-Algebra-and-Numbers-5.1
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
+  achievementindicator: "Determine the common factors in the terms of a polynomial, and express the polynomial in factored form."
+
+- code: 10C-Algebra-and-Numbers-5.2
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
+  achievementindicator: "Model the factoring of a trinomial, concretely or pictorially, and record the process symbolically."
+
+- code: 10C-Algebra-and-Numbers-5.3
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
+  achievementindicator: "Factor a polynomial that is a difference of squares, and explain why it is a special case of trinomial factoring where b = 0."
+
+- code: 10C-Algebra-and-Numbers-5.4
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
+  achievementindicator: "Identify and explain errors in a polynomial factorization."
+
+- code: 10C-Algebra-and-Numbers-5.5
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
+  achievementindicator: "Factor a polynomial, and verify by multiplying the factors."
+
+- code: 10C-Algebra-and-Numbers-5.6
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
+  achievementindicator: "Explain, using examples, the relationship between multiplication and factoring of polynomials."
+
+- code: 10C-Algebra-and-Numbers-5.7
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
+  achievementindicator: "Generalize and explain strategies used to factor a trinomial."
+
+- code: 10C-Algebra-and-Numbers-5.8
+  course: 10C
+  topic: Algebra and Numbers
+  generaloutcome: "Develop algebraic reasoning and number sense."
+  specificoutcome: "5. Demonstrate an understanding of common factors and trinomial factoring, concretely, pictorially and symbolically."
+  achievementindicator: "Express a polynomial as a product of its factors."
+
+- code: 10C-Relations-and-Functions-1.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "1. Interpret and explain the relationships among data, graphs and situations."
+  achievementindicator: "Graph, with or without technology, a set of data, and determine the restrictions on the domain and range."
+
+- code: 10C-Relations-and-Functions-1.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "1. Interpret and explain the relationships among data, graphs and situations."
+  achievementindicator: "Explain why data points should or should not be connected on the graph for a situation."
+
+- code: 10C-Relations-and-Functions-1.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "1. Interpret and explain the relationships among data, graphs and situations."
+  achievementindicator: "Describe a possible situation for a given graph."
+
+- code: 10C-Relations-and-Functions-1.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "1. Interpret and explain the relationships among data, graphs and situations."
+  achievementindicator: "Sketch a possible graph for a given situation."
+
+- code: 10C-Relations-and-Functions-1.5
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "1. Interpret and explain the relationships among data, graphs and situations."
+  achievementindicator: "Determine, and express in a variety of ways, the domain and range of a graph, a set of ordered pairs or a table of values."
+
+- code: 10C-Relations-and-Functions-2.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "2. Demonstrate an understanding of relations and functions."
+  achievementindicator: "Explain, using examples, why some relations are not functions but all functions are relations."
+
+- code: 10C-Relations-and-Functions-2.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "2. Demonstrate an understanding of relations and functions."
+  achievementindicator: "Determine if a set of ordered pairs represents a function."
+
+- code: 10C-Relations-and-Functions-2.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "2. Demonstrate an understanding of relations and functions."
+  achievementindicator: "Sort a set of graphs as functions or non-functions."
+
+- code: 10C-Relations-and-Functions-2.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "2. Demonstrate an understanding of relations and functions."
+  achievementindicator: "Generalize and explain rules for determining whether graphs and sets of ordered pairs represent functions."
+
+- code: 10C-Relations-and-Functions-3.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "Determine the slope of a line segment by measuring or calculating the rise and run."
+
+- code: 10C-Relations-and-Functions-3.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "Classify lines in a given set as having positive or negative slopes."
+
+- code: 10C-Relations-and-Functions-3.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "Explain the meaning of the slope of a horizontal or vertical line."
+
+- code: 10C-Relations-and-Functions-3.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "Explain why the slope of a line can be determined by using any two points on that line."
+
+- code: 10C-Relations-and-Functions-3.5
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "Explain, using examples, slope as a rate of change."
+
+- code: 10C-Relations-and-Functions-3.6
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "Draw a line, given its slope and a point on the line."
+
+- code: 10C-Relations-and-Functions-3.7
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "Determine another point on a line, given the slope and a point on the line."
+
+- code: 10C-Relations-and-Functions-3.8
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "Generalize and apply a rule for determining whether two lines are parallel or perpendicular."
+
+- code: 10C-Relations-and-Functions-3.9
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "3. Demonstrate an understanding of slope with respect to: rise and run, line segments and lines, rate of change, parallel lines, perpendicular lines."
+  achievementindicator: "Solve a contextual problem involving slope."
+
+- code: 10C-Relations-and-Functions-4.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "4. Describe and represent linear relations, using: words, ordered pairs, tables of values, graphs, equations."
+  achievementindicator: "Identify independent and dependent variables in a given context."
+
+- code: 10C-Relations-and-Functions-4.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "4. Describe and represent linear relations, using: words, ordered pairs, tables of values, graphs, equations."
+  achievementindicator: "Determine whether a situation represents a linear relation, and explain why or why not."
+
+- code: 10C-Relations-and-Functions-4.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "4. Describe and represent linear relations, using: words, ordered pairs, tables of values, graphs, equations."
+  achievementindicator: "Determine whether a graph represents a linear relation, and explain why or why not."
+
+- code: 10C-Relations-and-Functions-4.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "4. Describe and represent linear relations, using: words, ordered pairs, tables of values, graphs, equations."
+  achievementindicator: "Determine whether a table of values or a set of ordered pairs represents a linear relation, and explain why or why not."
+
+- code: 10C-Relations-and-Functions-4.5
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "4. Describe and represent linear relations, using: words, ordered pairs, tables of values, graphs, equations."
+  achievementindicator: "Draw a graph from a set of ordered pairs within a given situation, and determine whether the relationship between the variables is linear."
+
+- code: 10C-Relations-and-Functions-4.6
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "4. Describe and represent linear relations, using: words, ordered pairs, tables of values, graphs, equations."
+  achievementindicator: "Determine whether an equation represents a linear relation, and explain why or why not."
+
+- code: 10C-Relations-and-Functions-4.7
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "4. Describe and represent linear relations, using: words, ordered pairs, tables of values, graphs, equations."
+  achievementindicator: "Match corresponding representations of linear relations."
+
+- code: 10C-Relations-and-Functions-5.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "5. Determine the characteristics of the graphs of linear relations, including the: intercepts, slope, domain, range."
+  achievementindicator: "Determine the intercepts of the graph of a linear relation, and state the intercepts as values or ordered pairs."
+
+- code: 10C-Relations-and-Functions-5.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "5. Determine the characteristics of the graphs of linear relations, including the: intercepts, slope, domain, range."
+  achievementindicator: "Determine the slope of the graph of a linear relation."
+
+- code: 10C-Relations-and-Functions-5.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "5. Determine the characteristics of the graphs of linear relations, including the: intercepts, slope, domain, range."
+  achievementindicator: "Determine the domain and range of the graph of a linear relation."
+
+- code: 10C-Relations-and-Functions-5.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "5. Determine the characteristics of the graphs of linear relations, including the: intercepts, slope, domain, range."
+  achievementindicator: "Sketch a linear relation that has one intercept, two intercepts or an infinite number of intercepts."
+
+- code: 10C-Relations-and-Functions-5.5
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "5. Determine the characteristics of the graphs of linear relations, including the: intercepts, slope, domain, range."
+  achievementindicator: "Identify the graph that corresponds to a given slope and y-intercept."
+
+- code: 10C-Relations-and-Functions-5.6
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "5. Determine the characteristics of the graphs of linear relations, including the: intercepts, slope, domain, range."
+  achievementindicator: "Identify the slope and y-intercept that correspond to a given graph."
+
+- code: 10C-Relations-and-Functions-5.7
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "5. Determine the characteristics of the graphs of linear relations, including the: intercepts, slope, domain, range."
+  achievementindicator: "Solve a contextual problem that involves intercepts, slope, domain or range of a linear relation."
+
+- code: 10C-Relations-and-Functions-6.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))."
+  achievementindicator: "Express a linear relation in different forms, and compare the graphs."
+
+- code: 10C-Relations-and-Functions-6.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))."
+  achievementindicator: "Rewrite a linear relation in either slope–intercept or general form."
+
+- code: 10C-Relations-and-Functions-6.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))."
+  achievementindicator: "Generalize and explain strategies for graphing a linear relation in slope–intercept, general or slope–point form."
+
+- code: 10C-Relations-and-Functions-6.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))."
+  achievementindicator: "Graph, with and without technology, a linear relation given in slope–intercept, general or slope–point form, and explain the strategy used to create the graph."
+
+- code: 10C-Relations-and-Functions-6.5
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))."
+  achievementindicator: "Identify equivalent linear relations from a set of linear relations."
+
+- code: 10C-Relations-and-Functions-6.6
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "6. Relate linear relations expressed in: slope–intercept form (y = mx + b), general form (Ax + By + C = 0), slope–point form (y – y1 = m(x – x1))."
+  achievementindicator: "Match a set of linear relations to their graphs."
+
+- code: 10C-Relations-and-Functions-7.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "7. Determine the equation of a linear relation, given: a graph, a point and the slope, two points, a point and the equation of a parallel or perpendicular line to solve problems."
+  achievementindicator: "Determine the slope and y-intercept of a given linear relation from its graph, and write the equation in the form y = mx + b."
+
+- code: 10C-Relations-and-Functions-7.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "7. Determine the equation of a linear relation, given: a graph, a point and the slope, two points, a point and the equation of a parallel or perpendicular line to solve problems."
+  achievementindicator: "Write the equation of a linear relation, given its slope and the coordinates of a point on the line, and explain the reasoning."
+
+- code: 10C-Relations-and-Functions-7.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "7. Determine the equation of a linear relation, given: a graph, a point and the slope, two points, a point and the equation of a parallel or perpendicular line to solve problems."
+  achievementindicator: "Write the equation of a linear relation, given the coordinates of two points on the line, and explain the reasoning."
+
+- code: 10C-Relations-and-Functions-7.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "7. Determine the equation of a linear relation, given: a graph, a point and the slope, two points, a point and the equation of a parallel or perpendicular line to solve problems."
+  achievementindicator: "Write the equation of a linear relation, given the coordinates of a point on the line and the equation of a parallel or perpendicular line, and explain the reasoning."
+
+- code: 10C-Relations-and-Functions-7.5
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "7. Determine the equation of a linear relation, given: a graph, a point and the slope, two points, a point and the equation of a parallel or perpendicular line to solve problems."
+  achievementindicator: "Graph linear data generated from a context, and write the equation of the resulting line."
+
+- code: 10C-Relations-and-Functions-7.6
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "7. Determine the equation of a linear relation, given: a graph, a point and the slope, two points, a point and the equation of a parallel or perpendicular line to solve problems."
+  achievementindicator: "Solve a problem, using the equation of a linear relation."
+
+- code: 10C-Relations-and-Functions-8.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "8. Represent a linear function, using function notation."
+  achievementindicator: "Express the equation of a linear function in two variables, using function notation."
+
+- code: 10C-Relations-and-Functions-8.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "8. Represent a linear function, using function notation."
+  achievementindicator: "Express an equation given in function notation as a linear function in two variables."
+
+- code: 10C-Relations-and-Functions-8.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "8. Represent a linear function, using function notation."
+  achievementindicator: "Determine the related range value, given a domain value for a linear function; e.g., if f (x) = 3x – 2, determine f (–1)."
+
+- code: 10C-Relations-and-Functions-8.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "8. Represent a linear function, using function notation."
+  achievementindicator: "Determine the related domain value, given a range value for a linear function; e.g., if g(t) = 7 + t, determine t so that g(t) = 15."
+
+- code: 10C-Relations-and-Functions-8.5
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "8. Represent a linear function, using function notation."
+  achievementindicator: "Sketch the graph of a linear function expressed in function notation."
+
+- code: 10C-Relations-and-Functions-9.1
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
+  achievementindicator: "Model a situation, using a system of linear equations."
+
+- code: 10C-Relations-and-Functions-9.2
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
+  achievementindicator: "Relate a system of linear equations to the context of a problem."
+
+- code: 10C-Relations-and-Functions-9.3
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
+  achievementindicator: "Determine and verify the solution of a system of linear equations graphically, with and without technology."
+
+- code: 10C-Relations-and-Functions-9.4
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
+  achievementindicator: "Explain the meaning of the point of intersection of a system of linear equations."
+
+- code: 10C-Relations-and-Functions-9.5
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
+  achievementindicator: "Determine and verify the solution of a system of linear equations algebraically."
+
+- code: 10C-Relations-and-Functions-9.6
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
+  achievementindicator: "Explain, using examples, why a system of equations may have no solution, one solution or an infinite number of solutions."
+
+- code: 10C-Relations-and-Functions-9.7
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
+  achievementindicator: "Explain a strategy to solve a system of linear equations."
+
+- code: 10C-Relations-and-Functions-9.8
+  course: 10C
+  topic: Relations and Functions
+  generaloutcome: "Develop algebraic and graphical reasoning through the study of relations."
+  specificoutcome: "9. Solve problems that involve systems of linear equations in two variables, graphically and algebraically."
+  achievementindicator: "Solve a problem that involves a system of linear equations."
+
+- code: 20-2-Measurement-1.1
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "Interpret rates in a given context, such as the arts, commerce, the environment, medicine or recreation."
+
+- code: 20-2-Measurement-1.2
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "Solve a rate problem that requires the isolation of a variable."
+
+- code: 20-2-Measurement-1.3
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "Determine and compare rates and unit rates."
+
+- code: 20-2-Measurement-1.4
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "Make and justify a decision, using rates."
+
+- code: 20-2-Measurement-1.5
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "Represent a given rate pictorially."
+
+- code: 20-2-Measurement-1.6
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "Draw a graph to represent a rate."
+
+- code: 20-2-Measurement-1.7
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "Explain, using examples, the relationship between the slope of a graph and a rate."
+
+- code: 20-2-Measurement-1.8
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "Describe a context for a given rate or unit rate."
+
+- code: 20-2-Measurement-1.9
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "Identify and explain factors that influence a rate in a given context."
+
+- code: 20-2-Measurement-1.10
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "1. Solve problems that involve the application of rates."
+  achievementindicator: "Solve a contextual problem that involves rates or unit rates."
+
+- code: 20-2-Measurement-2.1
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "2. Solve problems that involve scale diagrams, using proportional reasoning."
+  achievementindicator: "Explain, using examples, how scale diagrams are used to model a 2-D shape or a 3-D object."
+
+- code: 20-2-Measurement-2.2
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "2. Solve problems that involve scale diagrams, using proportional reasoning."
+  achievementindicator: "Determine, using proportional reasoning, the scale factor, given one dimension of a 2-D shape or a 3-D object and its representation."
+
+- code: 20-2-Measurement-2.3
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "2. Solve problems that involve scale diagrams, using proportional reasoning."
+  achievementindicator: "Determine, using proportional reasoning, an unknown dimension of a 2-D shape or a 3-D object, given a scale diagram or a model."
+
+- code: 20-2-Measurement-2.4
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "2. Solve problems that involve scale diagrams, using proportional reasoning."
+  achievementindicator: "Draw, with or without technology, a scale diagram of a given 2-D shape, according to a specified scale factor (enlargement or reduction)."
+
+- code: 20-2-Measurement-2.5
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "2. Solve problems that involve scale diagrams, using proportional reasoning."
+  achievementindicator: "Solve a contextual problem that involves a scale diagram."
+
+- code: 20-2-Measurement-3.1
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Demonstrate an understanding of the relationships among scale factors, areas, surface areas and volumes of similar 2-D shapes and 3-D objects."
+  achievementindicator: "Determine the area of a 2-D shape, given the scale diagram, and justify the reasonableness of the result."
+
+- code: 20-2-Measurement-3.2
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Demonstrate an understanding of the relationships among scale factors, areas, surface areas and volumes of similar 2-D shapes and 3-D objects."
+  achievementindicator: "Determine the surface area and volume of a 3-D object, given the scale diagram, and justify the reasonableness of the result."
+
+- code: 20-2-Measurement-3.3
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Demonstrate an understanding of the relationships among scale factors, areas, surface areas and volumes of similar 2-D shapes and 3-D objects."
+  achievementindicator: "Explain, using examples, the effect of a change in the scale factor on the area of a 2-D shape."
+
+- code: 20-2-Measurement-3.4
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Demonstrate an understanding of the relationships among scale factors, areas, surface areas and volumes of similar 2-D shapes and 3-D objects."
+  achievementindicator: "Explain, using examples, the effect of a change in the scale factor on the surface area of a 3-D object."
+
+- code: 20-2-Measurement-3.5
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Demonstrate an understanding of the relationships among scale factors, areas, surface areas and volumes of similar 2-D shapes and 3-D objects."
+  achievementindicator: "Explain, using examples, the effect of a change in the scale factor on the volume of a 3-D object."
+
+- code: 20-2-Measurement-3.6
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Demonstrate an understanding of the relationships among scale factors, areas, surface areas and volumes of similar 2-D shapes and 3-D objects."
+  achievementindicator: "Explain, using examples, the relationships among scale factor, area of a 2-D shape, surface area of a 3-D object and volume of a 3-D object."
+
+- code: 20-2-Measurement-3.7
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Demonstrate an understanding of the relationships among scale factors, areas, surface areas and volumes of similar 2-D shapes and 3-D objects."
+  achievementindicator: "Solve a spatial problem that requires the manipulation of formulas."
+
+- code: 20-2-Measurement-3.8
+  course: 20-2
+  topic: Measurement
+  generaloutcome: "Develop spatial sense and proportional reasoning."
+  specificoutcome: "3. Demonstrate an understanding of the relationships among scale factors, areas, surface areas and volumes of similar 2-D shapes and 3-D objects."
+  achievementindicator: "Solve a contextual problem that involves the relationships among scale factors, areas and volumes."

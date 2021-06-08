@@ -1,0 +1,24 @@
+\documentclass[tikz, border = 5pt]{standalone}
+\usetikzlibrary{quotes,angles}
+\usepackage{tkz-euclide}
+\usetkzobj{all}
+\begin{document}
+\begin{tikzpicture}
+  \draw[ultra thick]
+    (0,0) coordinate (b) node[left, scale=1.5] {B}
+    -- (10,0) coordinate (c) node[right, scale=1.5] {C}
+    -- (2,5) coordinate (a) node[above, scale=1.5] {A}
+    -- cycle
+    pic["$70^{\circ}$",draw=black, angle eccentricity=1.3, angle radius=1cm]
+    {angle=b--a--c}
+    pic["$35^\circ$",draw=black, angle eccentricity=1.3, angle radius=1cm]
+    {angle=a--c--b}
+    pic[draw=black, angle eccentricity=1.3, angle radius=1cm]
+    {angle=c--b--a};
+
+  \node[scale=1.5] at (5,-.25) {$a$};
+  \node[scale=1.5, rotate=69] at (.6,2.5) {$c = 12.5 \mbox{ cm}$};
+  \node[scale=1.5, rotate=-31] at (6.5,2.5) {$b=20.5 \mbox{ cm}$};
+
+\end{tikzpicture}
+\end{document}

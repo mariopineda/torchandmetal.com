@@ -1,0 +1,46 @@
+<!-- Calculate and display the total number of posts -->
+{% assign totalcount = 0 %}
+{% for post in site.posts %}
+  {% if post.published  %}
+    {% if post.course == include.course %}
+      {% if post.category == include.unit %}
+        {% assign totalcount = totalcount | plus: 1 %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+<div class="card">
+  <div class="card-header" id="heading{{ include.number }}">
+    <h5 class="mb-0">
+      <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapse{{ include.number }}" aria-expanded="false" aria-controls="collapse{{ include.number }}">
+        {{ include.unit }} ({{ totalcount }} practice problems)
+      </button>
+    </h5>
+  </div>
+  <div id="collapse{{ include.number }}" class="collapse" aria-labelledby="heading{{ include.number }}" data-parent="#accordionPracticeProblems">
+    <div class="card-body">
+
+      <table class="table table-hover">
+        <tbody>
+          {% for post in site.posts reversed%}
+            {% if post.course == include.course %}
+              {% if post.category == include.unit %}
+                <tr>
+                  <td>
+                    <a href="{{ post.url }}">{{ post.title }}
+                    {% if post.video != "na" %}
+                      <img src="/images/video.png" width="25" title="Video solution avaliable">
+                    {% endif %}  
+                  </td>
+                  <td>{{ post.description }}</td>
+                </tr>
+              {% endif  %}
+            {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+
+    </div>
+  </div>
+</div>

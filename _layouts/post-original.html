@@ -1,0 +1,54 @@
+---
+layout: default
+---
+$$\require{newcommand}$$
+$$\newcommand{\fraction}[2]{\displaystyle\frac{#1}{#2}}$$
+
+<!-- {% include alert-donow.html %} -->
+
+{% for entry in site.data.donow %}
+  {% if entry.url != page.url %} <!-- Not a Do Now -->
+    {% else %} <!-- Do Now -->
+      <div class="alert alert-success" role="alert">
+        <div class="row">
+          <div class="col"><h3>Do Now</h3></div>
+          <!-- <div class="col"><h3 align=right id="time">10:00</h3></div> -->
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}
+
+<div class="card">
+  <div class="card-header">
+    <div class="row">
+      <div class="col-sm-12"><h1>{{ page.title }}</h1></div>
+    </div>
+  </div>
+
+  <div class="card-body">
+    {{ content }}
+
+    <div class="row">
+      <div class="col-sm-4">
+        <div style="text-align: left">
+          {% if page.qrcode != nil %}
+            <img src="{{ page.qrcode }}" width=150>
+          {% endif %}
+        </div>
+      </div>
+      <div class="col-sm-8">
+        <div style="text-align: right">
+          <span class="align-text-bottom">
+            <em>
+              Page address: {{ site2.url }}{{ page.url }}<br>
+              {% if page.sourcetitle != nil %}
+                Based on: <a href="{{ page.sourceurl }}">{{ page.sourcetitle }}</a><br>
+              {% endif %}
+              {% include report-errors.html %}
+            </em>
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

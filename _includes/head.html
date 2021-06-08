@@ -1,0 +1,69 @@
+<head>
+  <link rel="icon" href="favicon.ico">
+  <title>{{ page.title }}</title>
+  <link href="/index_files/bootstrap.min.css" rel="stylesheet"> <!-- Bootstrap core CSS -->
+  <link href="/index_files/album.css" rel="stylesheet"> <!-- Custom styles for this template -->
+
+  {% include meta.html %}
+
+  <!-- Enable tikzjax functionality -->
+  <link rel="stylesheet" type="text/css" href="/index_files/fonts.css">
+
+  <!-- for the quote-fading code -->
+  <style>
+  .quotes {display: none;}
+
+  .row.is-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.row.is-flex > [class*='col-'] {
+    display: flex;
+    flex-direction: column;
+}
+
+/*
+* And with max cross-browser enabled.
+* Nobody should ever write this by hand.
+* Use a preprocesser with autoprefixing.
+*/
+.row.is-flex {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.row.is-flex > [class*='col-'] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+
+/* Add vertical space to stacked buttons */
+@media (max-width: 779px) {
+    .btn{
+        margin-bottom:10px;
+}
+
+/* Increase vertical space between li elements */
+li {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+  </style>
+
+  <!—- ShareThis BEGIN -—>
+    <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=5e7838a22584d40012f1db58&product=inline-share-buttons&cms=website' async='async'></script>
+  <!—- ShareThis END -—>
+
+</head>

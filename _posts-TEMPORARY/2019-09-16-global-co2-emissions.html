@@ -1,0 +1,48 @@
+---
+layout: post
+title: Global CO2 emissions
+category: Exponential functions
+description:
+tags: Problem solving
+level: difficult
+grade: 12
+course: 30-2
+sourcetitle: CAIT Climate Data Explorer (2017)
+sourceurl: https://cait.wri.org
+video: na
+published: true
+---
+<p>Carbon dioxide (CO₂) is an important heat-trapping greenhouse gas, which is primarily released through human activities such as deforestation and burning fossil fuels. Despite decades of warnings from scientists, carbon dioxide emissions from human activities are higher than at any point in our history and are reaching new record levels each year. Increases in atmospheric concentrations of CO₂ and other long-lived greenhouse gases are causing the rise in average global temperature since the mid-20th century. The global CO₂ emissions between 1850 and 2014 can be modelled with the following exponential function $e(t) = 260 \times 1.0303^t$ where $t$ is the year since 1850 and $e(t)$ is the global annual CO₂ emissions in megatonnes.</p>
+
+<ol type="A">
+  <li>Sketch the function, label the axes and indicate your window settings.</li>
+  <li>State a possible domain and range for the exponential function in this context.</li>
+  <li>Determine by how much, in percent, the annual CO₂ emissions are projected to have increased since you were born. Use the following formula to calculate the percent increase: $\displaystyle\frac{\mbox{emissions 2019} - \mbox{emissions the year you were born}}{\mbox{emissions the year you were born}} \times 100$. Round your answer to the nearest percent.
+  <li>Is your prediction in C. an interpolation or an extrapolation? Explain how this affects the prediction of the exponential model?</li>
+</ol>
+<!--  -->
+{% if true %}
+  <div class="accordion" id="accordionExample">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <h5 class="mb-0">
+          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+            <h2>Solution</h2>
+          </button>
+        </h5>
+      </div>
+      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="card-body">
+          <!--- Start solution --->
+          <ol type="A">
+            <li><img src="http://maythemathbewithyou.com/calculator/global-co2-emissions.png" width "100%"><p>The t-axis represents years since 1850 and the e-axis represents global annual CO₂ emissions in megatonnes. The window settings are $X:[0, 164, 10]$ and $Y:[0, 35000, 1000]$.</p></li>
+            <li>Domain: $\{t | 0 \leq t \leq 164, t \in \mathbb{R}\}$ Range: $\{e | 0 \leq e \leq 34755.2262, e \in \mathbb{R} \}$.</li>
+            <li>The answer to this question will depend on your birth year and today's date. If you were born in 2000, $t=2000-1850=150$ and the emission in that year were $e(150) = 260 \times 1.0303^{150} \Rightarrow e(150)=22883.8094$ megatonnes. If today's year is 2019, $t=2019-1850=169$ and the emission are $e(169) = 260 \times 1.0303^{169} \Rightarrow e(150)=40349.54284$ megatonnes. Using the provided formula, $\displaystyle\frac{40349.54284 - 22883.8094}{22883.8094} \times 100 = 76.3235...$. The CO₂ emissions are projected to have increased 76% between the years 2000 and 2019.
+            <li>The prediction is an extrapolation since the model is used to predict the emissions beyond the years for which it was calibrated (1850-2014). Caution needs to be taken when interpreting predictions based on extrapolation as the assumption one is making is that the trend described by the function continues beyond the data that was used to create the function. </li>
+          </ol>
+          <!--- End solution --->
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}

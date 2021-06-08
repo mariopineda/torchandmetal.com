@@ -1,0 +1,55 @@
+---
+layout: post
+title: Airborne oil sands pollution
+category: Exponential functions
+description:
+tags: Problem solving
+level: moderate
+grade: 12
+course: 30-2
+sourcetitle: Kelly et al. 2010. Oil sands development contributes elements toxic at low concentration to the Athabasca River and its tributaries. PNAS 107(37), 16178-16183
+sourceurl: https://www.pnas.org/content/107/37/16178
+video: na
+published: true
+---
+<p>A recent study by researchers at University of Alberta showed that a single oil sands upgrading facility in the Fort MacMurry region released 11400 metric tonnes of airborne pollutants during a four month period in 2008. The researchers detected elevated concentrations of highly toxic heavy metals and organic chemicals in fresh snow several hundred kilometers away from the facility. The concentration of lead pollution that the researchers detected in fresh snow can be modelled with the following decreasing exponential function $y(x) = 54.6 \times 0.97^x$ where $x$ is the distance from the upgrading facility in kilometers and $y$ is the concentration of lead in fresh snow in micrograms per square meter, $\mu$g/m$^2$.</p>
+<ol type="A">
+  <li>The exponential function describing the lead concentration can be written in the form $y=a \times b^x$.
+    <ol>
+      <li>What is the value of the parameter $a$? What does the $a$-value represent in this context? What is the unit for $a$?</li>
+      <li>What is the value of the parameter $b$? What does the $b$-value represent in this context?</li>
+    </ol>
+  <li>Sketch the function, label the axes and indicate your window settings.</li>
+  <li>The average background level of lead in this region (in the absence of pollution) is approximatelly 2.2 $\mu$g/m$^2$. Determine how far away from the upgrading facility you would have to be for the lead levels to be at the background levels. Round your answer to the nearest whole kilometer.</li>
+  <li>State a possible domain and range for the exponential function describing the lead concentration between the upgrading facility and the distance at which the lead concentration is at background levels.</li>
+</ol>
+<!--  -->
+{% if true %}
+  <div class="accordion" id="accordionExample">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <h5 class="mb-0">
+          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+            <h2>Solution</h2>
+          </button>
+        </h5>
+      </div>
+      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="card-body">
+          <!--- Start solution --->
+          <ol type="A">
+            <li>The exponential function describing the lead concentration can be written in the form $y=a \times b^x$.
+              <ol>
+                <li>$a=54.6 \mu$g\m$^2$. $a$ represents the lead concentration at the upgrade facility (where the distace is zero, $x=0$)</li>
+                <li>$b=0.97$. $b$ represents the rate of decay of the lead pollution, in this context the lead concentration declines by 3% for every kilometer ($(1-0.97)\times 100 = 3$).</li>
+                </ol>
+            <li><img src="http://maythemathbewithyou.com/calculator/airborne-oilsands-pollution.png" width "100%"><p>The x-axis represents distance from upgrading facility in km and the y-axis represents lead concentration in $\mu$g/m$^2$. The window settings are $X:[0, 200, 10]$ and $Y:[0, 60, 10]$.</p></li>
+            <li>After graphing $y(x)$ add $y_2=2.2$ and find the x-coordinate of the point of intersection between ther two graphs (2nd+trace $\Rightarrow$ 5:intersect). The distance at which the lead concentration is back at background levels is 105 km away from the upgrading facility.</li>
+            <li>Domain: $\{ x | 0 \leq x \leq 105, x \in \mathbb{R} \}$. Range: $\{y | 2.2 \leq y \leq 54.6\}$</li>
+          </ol>
+          <!--- End solution --->
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}

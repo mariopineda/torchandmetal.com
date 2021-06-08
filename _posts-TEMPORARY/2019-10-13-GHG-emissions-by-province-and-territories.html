@@ -1,0 +1,133 @@
+---
+layout: post
+title: GHG emissions by provinces and territories
+category: Set theory
+description:
+tags: Problem solving
+level: moderate
+grade: 12
+course: 30-2
+sourcetitle: Greenhouse gas sources and sinks executive summary 2019. Government of Canada.
+sourceurl: https://www.canada.ca/en/environment-climate-change/services/climate-change/greenhouse-gas-emissions/sources-sinks-executive-summary-2019.html#toc6
+video: na
+published: true
+---
+<p>Climate change is one of the most important environmental issues of our time. Climate change is caused by the increase in concentrations of greenhouse gases (GHGs) in the atmosphere such as carbon dioxide (CO2). These increases are primarily due to human activities such as the use of fossil fuels or agriculture. In Canada GHG emissions vary significantly by province as a result of population, energy sources and economic structure. The following table summarizes the GHG emissions by provinces and territories between 1990 and 2017 in megatonnes of CO2 equivalent.</p>
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Province/territory</th>
+      <th scope="col">1990</th>
+      <th scope="col">2017</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>NL</td>
+      <td>9.4</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>PE</td>
+      <td>1.9</td>
+      <td>1.8</td>
+    </tr>
+    <tr>
+      <td>NS</td>
+      <td>20</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td>NB</td>
+      <td>16</td>
+      <td>14</td>
+    </tr>
+    <tr>
+      <td>QC</td>
+      <td>86</td>
+      <td>78</td>
+    </tr>
+    <tr>
+      <td>ON</td>
+      <td>180</td>
+      <td>159</td>
+    </tr>
+    <tr>
+      <td>MB</td>
+      <td>18</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td>SK</td>
+      <td>44</td>
+      <td>78</td>
+    </tr>
+    <tr>
+      <td>AB</td>
+      <td>173</td>
+      <td>273</td>
+    </tr>
+    <tr>
+      <td>BC</td>
+      <td>52</td>
+      <td>62</td>
+    </tr>
+    <tr>
+      <td>YT</td>
+      <td>0.5</td>
+      <td>0.5</td>
+    </tr>
+    <tr>
+      <td>NT</td>
+      <td>0</td>
+      <td>1.2</td>
+    </tr>
+    <tr>
+      <td>NU</td>
+      <td>0.4</td>
+      <td>0.6</td>
+    </tr>
+  </tbody>
+</table>
+
+<ol>
+  <li>List the elements of the universal set, $C$, of Canadian provinces and territories.</li>
+  <li>List the set, $D$, of provinces and territories where the GHG emission decreased between 1990 and 2017 in set notation. How is $D$ related to $C$?</li>
+  <li>List the set, $I$, of provinces and territories where the GHG emission increased between 1990 and 2017 in set notation. How is $I$ related to $C$?</li>
+  <li>List the set, $H$, of provinces and territories where the GHG emission exceed 100 megatonnes of CO2 equivalent in 2017 in set notation. How is $H$ related to $D$ and $I$?</li>
+  <li>The complement of $H$ is $H^{\prime}$. Describe what $H^{\prime}$ contains.</li>
+  <li>Consider the sets $C$, $D$, $I$, $H$. List the pairs of disjoint sets.</li>
+  <li>Use set notation to show which sets are subsets of one another.</li>
+  <li>Draw a Venn Diagram representing $C$, $D$, $I$, $H$. List all elements in the appropriate circle(s).
+</ol>
+
+<!--  -->
+{% if true %}
+  <div class="accordion" id="accordionExample">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <h5 class="mb-0">
+          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+            <h2>Solution</h2>
+          </button>
+        </h5>
+      </div>
+      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="card-body">
+          <!--- Start solution --->
+          <ol>
+            <li>$C = \{ NL,PE,NS,NB,QC,ON,MB,SK,AB,BC,YT,NT,NU \}$</li>
+            <li>$D = \{ PE,NS,NB,QC,ON \}$ where $D \subset C$</li>
+            <li>$I = \{ NL,MB,SK,AB,NBC,NT,NU \}$ where $I \subset C$</li>
+            <li>$H = \{ ON, AB \}$ where $H \subset D$ and $I \subset D$</li>
+            <li>$H$ represents the provinces and territories with GHG emissions of less than 100 megatonnes of CO2 equivalent in 2017.</li>
+            <li>$D$ and $I$</li>
+            <li>$D \subset C$, $H \subset C$, $I \subset C$</li>
+            <li><img src="http://maythemathbewithyou.com/tex/ghg-emissions-by-provinces-and-territories.png" width=100%>
+          </ol>
+          <!--- End solution --->
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}

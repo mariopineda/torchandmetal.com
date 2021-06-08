@@ -1,0 +1,79 @@
+---
+layout: default
+---
+<h1>Math 10C Learning Outcomes</h1>
+<!-- Identify unique 10C Topics in learning-outcomes.yaml-->
+{% assign topics = "" | split: "" %}
+{% for entry in site.data.learning-outcomes %}
+  {% if entry.course == "10C" %}
+    {% assign topics = topics | push: entry.topic %}
+  {% endif %}
+{% endfor %}
+{% assign topics = topics | uniq %}
+
+<div class="col-sm-6">
+  {% for topic in topics %}
+    <h2>Topic: {{ topic }}</h2>
+
+     <!-- Identify the General Outcomes for the current Topic -->
+     {% assign general_outcomes = "" | split: "" %}
+     {% for entry in site.data.learning-outcomes %}
+       {% if entry.course == "10C" %}
+         {% if entry.topic == topic %}
+           {% assign general_outcomes = general_outcomes | push: entry.generaloutcome %}
+         {% endif %}
+       {% endif %}
+     {% endfor %}
+     {% assign general_outcomes = general_outcomes | uniq %}
+     {% for general_outcome in general_outcomes %}
+       <h3>General Outcome: {{ general_outcome }} </h3>
+
+       <!-- Identify the Specific Outcomes for the current General Outcome -->
+       {% assign specific_outcomes = "" | split: "" %}
+       {% for entry in site.data.learning-outcomes %}
+         {% if entry.course == "10C" %}
+           {% if entry.topic == topic %}
+             {% if entry.generaloutcome == general_outcome %}
+               {% assign specific_outcomes = specific_outcomes | push: entry.specificoutcome %}
+             {% endif %}
+           {% endif %}
+         {% endif %}
+       {% endfor %}
+       {% assign specific_outcomes = specific_outcomes | uniq %}
+       <ul>
+       {% for specific_outcome in specific_outcomes %}
+         <li>Specific Outcome: {{ specific_outcome }}</li>
+
+         <!-- Identify the Achievement Indicator for the current Specific Outcome -->
+         {% assign achievement_indicators = "" | split: "" %}
+         {% for entry in site.data.learning-outcomes %}
+           {% if entry.course == "10C" %}
+             {% if entry.topic == topic %}
+               {% if entry.generaloutcome == general_outcome %}
+                 {% if entry.specificoutcome == specific_outcome %}
+                   {% assign achievement_indicators = achievement_indicators | push: entry.achievementindicator %}
+                 {% endif %}
+               {% endif %}
+             {% endif %}
+           {% endif %}
+         {% endfor %}
+         {% assign achievement_indicators = achievement_indicators | uniq %}
+         <ul>
+         {% for achievement_indicator in achievement_indicators %}
+           <li>
+             {{ achievement_indicator }}
+
+             <!-- List Practice Problems for the current Achievement Indicator -->
+             {% for post in site.posts %}
+               {% if post.learningoutcomes.code == entry.code %}
+                 {{ entry.title }}
+               {% endif %}
+             {% endfor %}
+           </li>
+         {% endfor %}
+         </ul>
+       {% endfor %}
+       </ul>
+     {% endfor %}
+  {% endfor %}
+</div>

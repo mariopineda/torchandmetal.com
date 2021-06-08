@@ -1,0 +1,29 @@
+<table class="table table-striped">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">Date</th>
+      <th scope="col">Assignment</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for entry in site.data.assignments-30-2 reversed %}
+      {% if entry.class == "30-2" and entry.published == true %}
+        <tr>
+          <td>{{ entry.date }}</td>
+          <td>{{ entry.unit }}: {{ entry.pages }}
+            <ul>
+          {% for item in entry.web %}
+            {% for post in site.posts %}
+              {% if post.url == item.url %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+          </ul>
+        {{ entry.note }}  
+        </td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </tbody>
+</table>

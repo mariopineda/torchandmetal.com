@@ -1,0 +1,16 @@
+\documentclass[tikz,border=10pt]{standalone}
+\begin{document}
+  \newcommand{\width}{7cm}
+  \newcommand{\height}{5cm}
+  \begin{tikzpicture}
+    \draw [ultra thick] (0 , 0) coordinate (A) node[left, scale=1.5] {}
+        -- (\width , 0) coordinate (C) node[right, scale=1.5] {}
+        -- (0 , \height) coordinate (B) node[above, scale=1.5] {B}
+        -- (0,  0);
+    \draw [ultra thick] (A) rectangle ++(0.5,0.5) node[above right]{};
+
+    % Label edges
+    \node[scale=1.5, left] at (0,\height/2) {$a$};
+    \node[scale=1.5, above] at (\width/2,\height/2) {$c$};
+  \end{tikzpicture}
+\end{document}

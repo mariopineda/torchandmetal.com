@@ -1,0 +1,201 @@
+- class: 10C
+  date: Mon Feb 3
+  unit: Prereqs review
+  pages:
+  web:
+    - url: /integer-arithmetics-1/
+    - url: /fractions-1/
+    - url: /fractions-2/
+    - url: /fraction-arithmetics-1/
+    - url: /fraction-arithmetics-2/
+  note: <a href="https://docs.google.com/forms/d/e/1FAIpQLSej8fwdjKvntwaKRT0jmPazh7xhneTq4zp2m22vbCL-Fk6zaA/viewform">Student survey</a>
+  published: true
+
+- class: 10C
+  date: Tue Feb 4
+  unit: "Prereqs review & Trigonometry"
+  pages: "Topic 1 practice questions"
+  web:
+    - url: /fraction-arithmetics-3/
+    - url: /fraction-arithmetics-4/
+    - url: /evaluate-rationals-expressions/
+    - url: /fractions-3/
+    - url: /solving-equations-1/
+  note:
+  published: true
+
+- class: 10C
+  date: Wed Feb 5
+  unit: "Prereqs review & Trigonometry"
+  pages: "Topic 2 practice questions"
+  web:
+    - url: /solving-equations-2/
+    - url: /solving-equations-3/
+    - url: /solving-equations-4/
+    - url: /solving-equations-5/
+  note:
+  published: true
+
+- class: 10C
+  date: Thu Feb 6
+  unit: "Prereqs review & Trigonometry"
+  pages: "Topic 3 practice questions & Example 4 p24"
+  web:
+    - url: /solving-equations-6/
+    - url: /solving-equations-7/
+    - url: /solving-equations-8/
+    - url: /trigonometry-1/
+    - url: /trigonometry-2/
+  note: "Skills Assessment tomorrow"
+  published: true
+
+- class: 10C
+  date: Mon Feb 10
+  unit: "Trigonometry"
+  pages: "Topic 4 practice questions & review"
+  web:
+    - url: /trigonometry-9/
+  note: "Trig Unit Final postponed until Wed Feb 12, PT on Tue Feb 11"
+  published: true
+
+- class: 10C
+  date: Tue Feb 11
+  unit: "Trigonometry"
+  pages: "Study for unit final tomorrow"
+  web:
+    - url:
+  note:
+  published: true
+
+- class: 10C
+  date: Thu Feb 13
+  unit: "Measurement"
+  pages: "Topic 1 practice questions"
+  web:
+    - url: /trigonometry-8/
+  note:
+  published: true
+
+- class: 10C
+  date: Fri Feb 14
+  unit: "Measurement"
+  pages: "Topic 2 practice questions"
+  web:
+    - url: /unit-conversions-1/
+    - url: /unit-conversions-2/
+  note:
+  published: true
+
+- class: 10C
+  date: Wed Feb 19
+  unit: "Measurement"
+  pages: "Topic 3 practice questions"
+  web:
+    - url:
+  note:
+  published: true
+
+- class: 10C
+  date: Thu Feb 20
+  unit: "Measurement"
+  pages: "Topic 4 practice questions"
+  web:
+    - url: /unit-conversions-3/
+  note:
+  published: true
+
+- class: 10C
+  date: Fri Feb 21
+  unit: "Measurement"
+  pages: "SA worksheets & Topic 4 practice questions"
+  web:
+    - url: /surface-area-and-volume-1/
+  note:
+  published: true
+
+- class: 10C
+  date: Mon Feb 24
+  unit: "Measurement"
+  pages: "Topic 5 practice questions & review"
+  web:
+    - url: /surface-area-finding-missing-measures/
+    - url: /surface-area-and-volume-3/
+  note:
+  published: true
+
+- class: 10C
+  date: Tue Feb 25
+  unit: "Measurement"
+  pages: "Topic 5 practice questions & review"
+  web:
+    - url: /surface-area-finding-missing-measures/
+  note: "PT and late writes tomorrow."
+  published: true
+
+- class: 10C
+  date: Tue Mar 3
+  unit: "Exponents & Radicals"
+  pages: "Topic 1 practice questions"
+  web:
+    - url: /fraction-arithmetics-4/
+  note:
+  published: true
+
+- class: 10C
+  date: Wed Mar 4
+  unit: "Exponents & Radicals"
+  pages: "Topic 1 practice questions"
+  web:
+    - url: /exponent-laws-1/
+    - url: /exponent-laws-2/
+    - url: /exponent-laws-3/
+  note:
+  published: true
+
+- class: 10C
+  date: Thu Mar 5
+  unit: "Exponents & Radicals"
+  pages: "Topic 2 practice questions"
+  web:
+    - url:
+  note:
+  published: true
+
+- class: 10C
+  date: Fri Mar 6
+  unit: "Exponents & Radicals"
+  pages: "Topic 3 practice questions"
+  web:
+    - url: /exponent-laws-4/
+  note:
+  published: true
+
+- class: 10C
+  date: Wed Mar 11
+  unit: "Exponents & Radicals"
+  pages: "Topic 4 practice questions"
+  web:
+    - url: /prime-factorization-1/
+    - url: /prime-factorization-2/
+    - url: /converting-radicals-1/
+    - url: /converting-radicals-2/
+  note:
+  published: true
+
+- class: 10C
+  date: Thu Mar 12
+  unit: "Exponents & Radicals"
+  pages: "Topic 4 practice questions"
+  web:
+    - url: /converting-radicals-2/
+  note:
+  published: true
+
+- class: 10C
+  date: Fri Mar 13
+  unit: "Exponents & Radicals"
+  pages: "Topic 5 practice questions & Review"
+  web:
+    - url:
+  note: "Mon: PT & late writes, Tue: Unit Exam"
+  published: true

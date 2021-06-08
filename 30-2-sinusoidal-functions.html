@@ -1,0 +1,26 @@
+---
+layout: default
+permalink: 30-2/sinusoidal-functions/index.html
+title: "Math 30-2: Sinusoidal Functions"
+---
+<h1>{{ page.title }}</h1>
+
+{% for entry in site.data.30-2 %}
+  {% if entry.unit == "Sinusoidal Functions" %}
+    <h3>{{ entry.topic }}</h3>
+    <ul>
+    {% for item in entry.web %}
+      {% for post in site.posts %}
+        {% if post.url == item.url %}
+          <li>
+            <a href="{{ item.url }}">{{ post.title }}</a>
+            {% if post.video != "na" %}
+              <img src="/images/video.png" width="25" title="Video solution avaliable">
+            {% endif %}
+          </li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    </ul>
+  {% endif %}
+{% endfor %}

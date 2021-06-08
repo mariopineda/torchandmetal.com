@@ -1,0 +1,53 @@
+---
+layout: post
+title: Problem solving with quadratic equations
+category: Quadratic Equations
+description: Problem solving with quadratic equations
+tags: Skill building
+level: moderate
+grade: 12
+course: 20-2
+sourcetitle: Environment and Climate Change Canada (2019)
+sourceurl: https://www.canada.ca/en/environment-climate-change/services/environmental-indicators/greenhouse-gas-emissions.html
+video: na
+published: true
+---
+<p>Climate change is one of the most important environmental issues of our time. Climate change is caused by the increase in concentrations of greenhouse gases (GHGs) such as carbon dioxide in the atmosphere. These increases are primarily due to human activities such as the use of fossil fuels or agriculture. In 2017, the oil and gas sector was the largest source of GHG emissions in Canada, accounting for 27% of total national emissions. The carbon dioxide (CO2) emissions from the Canada oil sands between the years 1990 and 2017 can be modelled by the following quadratic equations $e(t) = 0.081284t^2-323.345t+321577$ where $e(t)$ is the CO2 emissions in megatonnes and $t$ is the year. </p>
+<ol type="A">
+  <li>Determine the CO2 emissions from the Canadian oil sands in 1990. Round your answer to the nearest hundreth of a megatonne.</li>
+  <li>Determine in what year the emissions doubled compared to the 1990 emission levels. Round your answer to the nearest year.</li>
+  <li>Determine the total national CO2 emissions in 2017. Round your answer to the nearest hundreth of a megatonne.</li>
+</ol>
+
+{% if true %}
+  <div class="accordion" id="accordionExample">
+    <div class="card">
+      <div class="card-header" id="headingOne">
+        <h5 class="mb-0">
+          <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+            <h2>Solution</h2>
+          </button>
+        </h5>
+      </div>
+      <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+        <div class="card-body">
+          <!--- Start solution --->
+          <h3>A.</h3>
+          <p>Graph $0.081284t^2-323.345t+321577$ and solve for $t=1990$ (2nd+trace $\Rightarrow$ 1:value $\Rightarrow$ $X=1990$). 13.22 megatonnes of CO2 emissions in 1990.</p>
+          <h3>B.</h3>
+          <p>$13.22 \times 2 = 26.44$ megatonnes is the double of the 1990 emissions. Add second graph to graphing calculator at 26.44 and find the t-coordinate of the point of intersection (2nd + trace $\Rightarrow$ 5:intersect). The 1990 emission level is doubled by 2002.</p>
+          <h3>C.</h3>
+          <p>Solve for $t=2017$ (2nd+trace $\Rightarrow$ 1:value $\Rightarrow$ $X=2017$). The amount of CO2 emissions from the oil sands in 2017: 76.94 megatonnes. Total national emission: $=76.94/0.27=284.96$ megatonnes.</p>
+          <!--- End solution --->
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}
+
+<!-- Solution template
+{% capture solution %}
+
+{% endcapture %}
+{% include_relative solution.html content=solution %}
+-->

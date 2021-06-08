@@ -1,0 +1,21 @@
+<p>
+  <table class="table table-striped">
+    <thead class="thead-dark"></thead>
+    <tbody>
+      {% for entry in site.data.donows %}
+        {% if entry.class == "{{ include.class }}" %}
+          {% for post in site.posts %}
+            {% if post.url == entry.url %}
+              {% if post.published  %}
+                <tr>
+                  <td>{{ entry.donowdate }}</td>
+                  <td><a href="{{ entry.url }}">{{ post.title }}</a></td>
+                </tr>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    </tbody>
+  </table>
+</p>

@@ -1,0 +1,57 @@
+---
+layout: post
+title: Template
+learningoutcomes:
+  - code:
+sourcetitle:
+sourceurl:
+video: na
+---
+<p>... {% include_relative hint-modal1.html content="..." %}</p>
+Dollar sign: \$100
+
+<!-- Multi-column template -->
+<div class="container">
+  <div class="row">
+    <div class="mt-3 col-md-3">
+      <h4>A.</h4>
+      <p>...</p>
+    </div>
+
+    <div class="mt-3 col-md-3">
+      <h4>B.</h4>
+      <p>...</p>
+    </div>
+
+    <div class="mt-3 col-md-3">
+      <h4>C.</h4>
+      <p>...</p>
+    </div>
+
+    <div class="mt-3 col-md-3">
+      <h4>D.</h4>
+      <p>...</p>
+    </div>
+  </div>
+</div>
+
+<!-- Two column template -->
+<div class="container">
+  <div class="row">
+    <div class="mt-3 col-md-6">
+      <h4>A.</h4>
+      <p>$$...$$</p>
+    </div>
+
+    <div class="mt-3 col-md-6">
+      <h4>B.</h4>
+      <p>$$...$$</p>
+    </div>
+  </div>
+</div>
+
+{% capture solution %}
+{% include trig-dog-working-on-solution.html %}
+{% endcapture %}
+{% include_relative solution.html content=solution %}
+====
