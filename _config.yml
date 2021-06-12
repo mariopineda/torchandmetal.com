@@ -16,10 +16,10 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
+title      : Torch & Metal
+email      : torchandmetal@gmail.com #this is also the email contact forms will go to
+description: "Artisan metalsmith in #yeg. Inspired by the mountains and forests."
+author     : Mario Pineda
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
@@ -27,7 +27,7 @@ author     : Your Name
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-FR736GFZHE
 
 collections:
   portfolio:
